@@ -1,0 +1,1462 @@
+date,numWeek,nameOf,continuousHoliday,nameDay,checkHoliday,nameType
+1/1/2020,1,New Year's Day,yes,Wednesday,holiday,Spacial
+1/2/2020,1,Normal Day,no,Thursday,not holiday,weekDay
+1/3/2020,1,Normal Day,no,Friday,not holiday,weekDay
+1/4/2020,1,Normal Day,no,Saturday,holiday,weekEnd
+1/5/2020,1,Normal Day,no,Sunday,holiday,weekEnd
+1/6/2020,1,Normal Day,no,Monday,not holiday,weekDay
+1/7/2020,1,Normal Day,no,Tuesday,not holiday,weekDay
+1/8/2020,2,Normal Day,no,Wednesday,not holiday,weekDay
+1/9/2020,2,Normal Day,no,Thursday,not holiday,weekDay
+1/10/2020,2,Normal Day,no,Friday,not holiday,weekDay
+1/11/2020,2,Normal Day,no,Saturday,holiday,weekEnd
+1/12/2020,2,Normal Day,no,Sunday,holiday,weekEnd
+1/13/2020,2,Normal Day,no,Monday,not holiday,weekDay
+1/14/2020,2,Normal Day,no,Tuesday,not holiday,weekDay
+1/15/2020,3,Normal Day,no,Wednesday,not holiday,weekDay
+1/16/2020,3,Normal Day,no,Thursday,not holiday,weekDay
+1/17/2020,3,Normal Day,no,Friday,not holiday,weekDay
+1/18/2020,3,Normal Day,no,Saturday,holiday,weekEnd
+1/19/2020,3,Normal Day,no,Sunday,holiday,weekEnd
+1/20/2020,3,Normal Day,no,Monday,not holiday,weekDay
+1/21/2020,3,Normal Day,no,Tuesday,not holiday,weekDay
+1/22/2020,4,Normal Day,no,Wednesday,not holiday,weekDay
+1/23/2020,4,Normal Day,no,Thursday,not holiday,weekDay
+1/24/2020,4,Normal Day,no,Friday,not holiday,weekDay
+1/25/2020,4,Normal Day,no,Saturday,holiday,weekEnd
+1/26/2020,4,Normal Day,no,Sunday,holiday,weekEnd
+1/27/2020,4,Normal Day,no,Monday,not holiday,weekDay
+1/28/2020,4,Normal Day,no,Tuesday,not holiday,weekDay
+1/29/2020,5,Normal Day,no,Wednesday,not holiday,weekDay
+1/30/2020,5,Normal Day,no,Thursday,not holiday,weekDay
+1/31/2020,5,Normal Day,no,Friday,not holiday,weekDay
+2/1/2020,5,Normal Day,no,Saturday,holiday,weekEnd
+2/2/2020,5,Normal Day,no,Sunday,holiday,weekEnd
+2/3/2020,5,Normal Day,no,Monday,not holiday,weekDay
+2/4/2020,5,Normal Day,no,Tuesday,not holiday,weekDay
+2/5/2020,6,Normal Day,no,Wednesday,not holiday,weekDay
+2/6/2020,6,Normal Day,no,Thursday,not holiday,weekDay
+2/7/2020,6,Normal Day,no,Friday,not holiday,weekDay
+2/8/2020,6,Makha Bucha Day,yes,Saturday,holiday,Spacial
+2/9/2020,6,Normal Day,yes,Sunday,holiday,weekEnd
+2/10/2020,6,Compensatory Holiday,yes,Monday,holiday,Spacial
+2/11/2020,6,Normal Day,no,Tuesday,not holiday,weekDay
+2/12/2020,7,Normal Day,no,Wednesday,not holiday,weekDay
+2/13/2020,7,Normal Day,no,Thursday,not holiday,weekDay
+2/14/2020,7,Normal Day,no,Friday,not holiday,weekDay
+2/15/2020,7,Normal Day,no,Saturday,holiday,weekEnd
+2/16/2020,7,Normal Day,no,Sunday,holiday,weekEnd
+2/17/2020,7,Normal Day,no,Monday,not holiday,weekDay
+2/18/2020,7,Normal Day,no,Tuesday,not holiday,weekDay
+2/19/2020,8,Normal Day,no,Wednesday,not holiday,weekDay
+2/20/2020,8,Normal Day,no,Thursday,not holiday,weekDay
+2/21/2020,8,Normal Day,no,Friday,not holiday,weekDay
+2/22/2020,8,Normal Day,no,Saturday,holiday,weekEnd
+2/23/2020,8,Normal Day,no,Sunday,holiday,weekEnd
+2/24/2020,8,Normal Day,no,Monday,not holiday,weekDay
+2/25/2020,8,Normal Day,no,Tuesday,not holiday,weekDay
+2/26/2020,9,Normal Day,no,Wednesday,not holiday,weekDay
+2/27/2020,9,Normal Day,no,Thursday,not holiday,weekDay
+2/28/2020,9,Normal Day,no,Friday,not holiday,weekDay
+2/29/2020,9,Normal Day,no,Saturday,holiday,weekEnd
+3/1/2020,9,Normal Day,no,Sunday,holiday,weekEnd
+3/2/2020,9,Normal Day,no,Monday,not holiday,weekDay
+3/3/2020,9,Normal Day,no,Tuesday,not holiday,weekDay
+3/4/2020,10,Normal Day,no,Wednesday,not holiday,weekDay
+3/5/2020,10,Normal Day,no,Thursday,not holiday,weekDay
+3/6/2020,10,Normal Day,no,Friday,not holiday,weekDay
+3/7/2020,10,Normal Day,no,Saturday,holiday,weekEnd
+3/8/2020,10,Normal Day,no,Sunday,holiday,weekEnd
+3/9/2020,10,Normal Day,no,Monday,not holiday,weekDay
+3/10/2020,10,Normal Day,no,Tuesday,not holiday,weekDay
+3/11/2020,11,Normal Day,no,Wednesday,not holiday,weekDay
+3/12/2020,11,Normal Day,no,Thursday,not holiday,weekDay
+3/13/2020,11,Normal Day,no,Friday,not holiday,weekDay
+3/14/2020,11,Normal Day,no,Saturday,holiday,weekEnd
+3/15/2020,11,Normal Day,no,Sunday,holiday,weekEnd
+3/16/2020,11,Normal Day,no,Monday,not holiday,weekDay
+3/17/2020,11,Normal Day,no,Tuesday,not holiday,weekDay
+3/18/2020,12,Normal Day,no,Wednesday,not holiday,weekDay
+3/19/2020,12,Normal Day,no,Thursday,not holiday,weekDay
+3/20/2020,12,Normal Day,no,Friday,not holiday,weekDay
+3/21/2020,12,Normal Day,no,Saturday,holiday,weekEnd
+3/22/2020,12,Normal Day,no,Sunday,holiday,weekEnd
+3/23/2020,12,Normal Day,no,Monday,not holiday,weekDay
+3/24/2020,12,Normal Day,no,Tuesday,not holiday,weekDay
+3/25/2020,13,Normal Day,no,Wednesday,not holiday,weekDay
+3/26/2020,13,Normal Day,no,Thursday,not holiday,weekDay
+3/27/2020,13,Normal Day,no,Friday,not holiday,weekDay
+3/28/2020,13,Normal Day,no,Saturday,holiday,weekEnd
+3/29/2020,13,Normal Day,no,Sunday,holiday,weekEnd
+3/30/2020,13,Normal Day,no,Monday,not holiday,weekDay
+3/31/2020,13,Normal Day,no,Tuesday,not holiday,weekDay
+4/1/2020,14,Normal Day,no,Wednesday,not holiday,weekDay
+4/2/2020,14,Normal Day,no,Thursday,not holiday,weekDay
+4/3/2020,14,Normal Day,no,Friday,not holiday,weekDay
+4/4/2020,14,Normal Day,no,Saturday,holiday,weekEnd
+4/5/2020,14,Normal Day,no,Sunday,holiday,weekEnd
+4/6/2020,14,Chakri Memorial Day,no,Monday,holiday,Spacial
+4/7/2020,14,Normal Day,no,Tuesday,not holiday,weekDay
+4/8/2020,15,Normal Day,no,Wednesday,not holiday,weekDay
+4/9/2020,15,Normal Day,no,Thursday,not holiday,weekDay
+4/10/2020,15,Normal Day,no,Friday,not holiday,weekDay
+4/11/2020,15,Normal Day,yes,Saturday,holiday,weekEnd
+4/12/2020,15,Normal Day,yes,Sunday,holiday,weekEnd
+4/13/2020,15,Songkran Festival,yes,Monday,holiday,Spacial
+4/14/2020,15,Songkran Festival,yes,Tuesday,holiday,Spacial
+4/15/2020,16,Songkran Festival,yes,Wednesday,holiday,Spacial
+4/16/2020,16,Normal Day,no,Thursday,not holiday,weekDay
+4/17/2020,16,Normal Day,no,Friday,not holiday,weekDay
+4/18/2020,16,Normal Day,no,Saturday,holiday,weekEnd
+4/19/2020,16,Normal Day,no,Sunday,holiday,weekEnd
+4/20/2020,16,Normal Day,no,Monday,not holiday,weekDay
+4/21/2020,16,Normal Day,no,Tuesday,not holiday,weekDay
+4/22/2020,17,Normal Day,no,Wednesday,not holiday,weekDay
+4/23/2020,17,Normal Day,no,Thursday,not holiday,weekDay
+4/24/2020,17,Normal Day,no,Friday,not holiday,weekDay
+4/25/2020,17,Normal Day,no,Saturday,holiday,weekEnd
+4/26/2020,17,Normal Day,no,Sunday,holiday,weekEnd
+4/27/2020,17,Normal Day,no,Monday,not holiday,weekDay
+4/28/2020,17,Normal Day,no,Tuesday,not holiday,weekDay
+4/29/2020,18,Normal Day,no,Wednesday,not holiday,weekDay
+4/30/2020,18,Normal Day,no,Thursday,not holiday,weekDay
+5/1/2020,18,Labour Day,no,Friday,holiday,Spacial
+5/2/2020,18,Normal Day,yes,Saturday,holiday,weekEnd
+5/3/2020,18,Normal Day,yes,Sunday,holiday,weekEnd
+5/4/2020,18,Coronation Day,yes,Monday,holiday,Spacial
+5/5/2020,18,Normal Day,no,Tuesday,not holiday,weekDay
+5/6/2020,19,Vesak Day,no,Wednesday,holiday,Spacial
+5/7/2020,19,Normal Day,no,Thursday,not holiday,weekDay
+5/8/2020,19,Normal Day,no,Friday,not holiday,weekDay
+5/9/2020,19,Normal Day,no,Saturday,holiday,weekEnd
+5/10/2020,19,Normal Day,no,Sunday,holiday,weekEnd
+5/11/2020,19,Royal Ploughing Ceremony,no,Monday,holiday,Spacial
+5/12/2020,19,Normal Day,no,Tuesday,not holiday,weekDay
+5/13/2020,20,Normal Day,no,Wednesday,not holiday,weekDay
+5/14/2020,20,Normal Day,no,Thursday,not holiday,weekDay
+5/15/2020,20,Normal Day,no,Friday,not holiday,weekDay
+5/16/2020,20,Normal Day,no,Saturday,holiday,weekEnd
+5/17/2020,20,Normal Day,no,Sunday,holiday,weekEnd
+5/18/2020,20,Normal Day,no,Monday,not holiday,weekDay
+5/19/2020,20,Normal Day,no,Tuesday,not holiday,weekDay
+5/20/2020,21,Normal Day,no,Wednesday,not holiday,weekDay
+5/21/2020,21,Normal Day,no,Thursday,not holiday,weekDay
+5/22/2020,21,Normal Day,no,Friday,not holiday,weekDay
+5/23/2020,21,Normal Day,no,Saturday,holiday,weekEnd
+5/24/2020,21,Normal Day,no,Sunday,holiday,weekEnd
+5/25/2020,21,Normal Day,no,Monday,not holiday,weekDay
+5/26/2020,21,Normal Day,no,Tuesday,not holiday,weekDay
+5/27/2020,22,Normal Day,no,Wednesday,not holiday,weekDay
+5/28/2020,22,Normal Day,no,Thursday,not holiday,weekDay
+5/29/2020,22,Normal Day,no,Friday,not holiday,weekDay
+5/30/2020,22,Normal Day,no,Saturday,holiday,weekEnd
+5/31/2020,22,Normal Day,no,Sunday,holiday,weekEnd
+6/1/2020,22,Normal Day,no,Monday,not holiday,weekDay
+6/2/2020,22,Normal Day,no,Tuesday,not holiday,weekDay
+6/3/2020,23,H.M. The Queen Suthida's Birthday,no,Wednesday,holiday,Spacial
+6/4/2020,23,Normal Day,no,Thursday,not holiday,weekDay
+6/5/2020,23,Normal Day,no,Friday,not holiday,weekDay
+6/6/2020,23,Normal Day,no,Saturday,holiday,weekEnd
+6/7/2020,23,Normal Day,no,Sunday,holiday,weekEnd
+6/8/2020,23,Normal Day,no,Monday,not holiday,weekDay
+6/9/2020,23,Normal Day,no,Tuesday,not holiday,weekDay
+6/10/2020,24,Normal Day,no,Wednesday,not holiday,weekDay
+6/11/2020,24,Normal Day,no,Thursday,not holiday,weekDay
+6/12/2020,24,Normal Day,no,Friday,not holiday,weekDay
+6/13/2020,24,Normal Day,no,Saturday,holiday,weekEnd
+6/14/2020,24,Normal Day,no,Sunday,holiday,weekEnd
+6/15/2020,24,Normal Day,no,Monday,not holiday,weekDay
+6/16/2020,24,Normal Day,no,Tuesday,not holiday,weekDay
+6/17/2020,25,Normal Day,no,Wednesday,not holiday,weekDay
+6/18/2020,25,Normal Day,no,Thursday,not holiday,weekDay
+6/19/2020,25,Normal Day,no,Friday,not holiday,weekDay
+6/20/2020,25,Normal Day,no,Saturday,holiday,weekEnd
+6/21/2020,25,Normal Day,no,Sunday,holiday,weekEnd
+6/22/2020,25,Normal Day,no,Monday,not holiday,weekDay
+6/23/2020,25,Normal Day,no,Tuesday,not holiday,weekDay
+6/24/2020,26,Normal Day,no,Wednesday,not holiday,weekDay
+6/25/2020,26,Normal Day,no,Thursday,not holiday,weekDay
+6/26/2020,26,Normal Day,no,Friday,not holiday,weekDay
+6/27/2020,26,Normal Day,no,Saturday,holiday,weekEnd
+6/28/2020,26,Normal Day,no,Sunday,holiday,weekEnd
+6/29/2020,26,Normal Day,no,Monday,not holiday,weekDay
+6/30/2020,26,Normal Day,no,Tuesday,not holiday,weekDay
+7/1/2020,27,Normal Day,no,Wednesday,not holiday,weekDay
+7/2/2020,27,Normal Day,no,Thursday,not holiday,weekDay
+7/3/2020,27,Normal Day,no,Friday,not holiday,weekDay
+7/4/2020,27,Normal Day,yes,Saturday,holiday,weekEnd
+7/5/2020,27,Asalha Puja Day,yes,Sunday,holiday,Spacial
+7/6/2020,27,Buddhist Lent Day,yes,Monday,holiday,Spacial
+7/7/2020,27,Compensatory Holiday,yes,Tuesday,holiday,Spacial
+7/8/2020,28,Normal Day,no,Wednesday,not holiday,weekDay
+7/9/2020,28,Normal Day,no,Thursday,not holiday,weekDay
+7/10/2020,28,Normal Day,no,Friday,not holiday,weekDay
+7/11/2020,28,Normal Day,no,Saturday,holiday,weekEnd
+7/12/2020,28,Normal Day,no,Sunday,holiday,weekEnd
+7/13/2020,28,Normal Day,no,Monday,not holiday,weekDay
+7/14/2020,28,Normal Day,no,Tuesday,not holiday,weekDay
+7/15/2020,29,Normal Day,no,Wednesday,not holiday,weekDay
+7/16/2020,29,Normal Day,no,Thursday,not holiday,weekDay
+7/17/2020,29,Normal Day,no,Friday,not holiday,weekDay
+7/18/2020,29,Normal Day,no,Saturday,holiday,weekEnd
+7/19/2020,29,Normal Day,no,Sunday,holiday,weekEnd
+7/20/2020,29,Normal Day,no,Monday,not holiday,weekDay
+7/21/2020,29,Normal Day,no,Tuesday,not holiday,weekDay
+7/22/2020,30,Normal Day,no,Wednesday,not holiday,weekDay
+7/23/2020,30,Normal Day,no,Thursday,not holiday,weekDay
+7/24/2020,30,Normal Day,no,Friday,not holiday,weekDay
+7/25/2020,30,Normal Day,no,Saturday,holiday,weekEnd
+7/26/2020,30,Normal Day,no,Sunday,holiday,weekEnd
+7/27/2020,30,Normal Day,no,Monday,not holiday,weekDay
+7/28/2020,30,H.M.King Maha Vajiralongkorn's Birthday,no,Tuesday,holiday,Spacial
+7/29/2020,31,Normal Day,no,Wednesday,not holiday,weekDay
+7/30/2020,31,Normal Day,no,Thursday,not holiday,weekDay
+7/31/2020,31,Normal Day,no,Friday,not holiday,weekDay
+8/1/2020,31,Normal Day,no,Saturday,holiday,weekEnd
+8/2/2020,31,Normal Day,no,Sunday,holiday,weekEnd
+8/3/2020,31,Normal Day,no,Monday,not holiday,weekDay
+8/4/2020,31,Normal Day,no,Tuesday,not holiday,weekDay
+8/5/2020,32,Normal Day,no,Wednesday,not holiday,weekDay
+8/6/2020,32,Normal Day,no,Thursday,not holiday,weekDay
+8/7/2020,32,Normal Day,no,Friday,not holiday,weekDay
+8/8/2020,32,Normal Day,no,Saturday,holiday,weekEnd
+8/9/2020,32,Normal Day,no,Sunday,holiday,weekEnd
+8/10/2020,32,Normal Day,no,Monday,not holiday,weekDay
+8/11/2020,32,Normal Day,no,Tuesday,not holiday,weekDay
+8/12/2020,33,Mother's Day,no,Wednesday,holiday,Spacial
+8/13/2020,33,Normal Day,no,Thursday,not holiday,weekDay
+8/14/2020,33,Normal Day,no,Friday,not holiday,weekDay
+8/15/2020,33,Normal Day,no,Saturday,holiday,weekEnd
+8/16/2020,33,Normal Day,no,Sunday,holiday,weekEnd
+8/17/2020,33,Normal Day,no,Monday,not holiday,weekDay
+8/18/2020,33,Normal Day,no,Tuesday,not holiday,weekDay
+8/19/2020,34,Normal Day,no,Wednesday,not holiday,weekDay
+8/20/2020,34,Normal Day,no,Thursday,not holiday,weekDay
+8/21/2020,34,Normal Day,no,Friday,not holiday,weekDay
+8/22/2020,34,Normal Day,no,Saturday,holiday,weekEnd
+8/23/2020,34,Normal Day,no,Sunday,holiday,weekEnd
+8/24/2020,34,Normal Day,no,Monday,not holiday,weekDay
+8/25/2020,34,Normal Day,no,Tuesday,not holiday,weekDay
+8/26/2020,35,Normal Day,no,Wednesday,not holiday,weekDay
+8/27/2020,35,Normal Day,no,Thursday,not holiday,weekDay
+8/28/2020,35,Normal Day,no,Friday,not holiday,weekDay
+8/29/2020,35,Normal Day,no,Saturday,holiday,weekEnd
+8/30/2020,35,Normal Day,no,Sunday,holiday,weekEnd
+8/31/2020,35,Normal Day,no,Monday,not holiday,weekDay
+9/1/2020,35,Normal Day,no,Tuesday,not holiday,weekDay
+9/2/2020,36,Normal Day,no,Wednesday,not holiday,weekDay
+9/3/2020,36,Normal Day,no,Thursday,not holiday,weekDay
+9/4/2020,36,Compensatory Holiday,yes,Friday,holiday,Spacial
+9/5/2020,36,Normal Day,yes,Saturday,holiday,weekEnd
+9/6/2020,36,Normal Day,yes,Sunday,holiday,weekEnd
+9/7/2020,36,Compensatory Holiday,yes,Monday,holiday,Spacial
+9/8/2020,36,Normal Day,no,Tuesday,not holiday,weekDay
+9/9/2020,37,Normal Day,no,Wednesday,not holiday,weekDay
+9/10/2020,37,Normal Day,no,Thursday,not holiday,weekDay
+9/11/2020,37,Normal Day,no,Friday,not holiday,weekDay
+9/12/2020,37,Normal Day,no,Saturday,holiday,weekEnd
+9/13/2020,37,Normal Day,no,Sunday,holiday,weekEnd
+9/14/2020,37,Normal Day,no,Monday,not holiday,weekDay
+9/15/2020,37,Normal Day,no,Tuesday,not holiday,weekDay
+9/16/2020,38,Normal Day,no,Wednesday,not holiday,weekDay
+9/17/2020,38,Normal Day,no,Thursday,not holiday,weekDay
+9/18/2020,38,Normal Day,no,Friday,not holiday,weekDay
+9/19/2020,38,Normal Day,no,Saturday,holiday,weekEnd
+9/20/2020,38,Normal Day,no,Sunday,holiday,weekEnd
+9/21/2020,38,Normal Day,no,Monday,not holiday,weekDay
+9/22/2020,38,Normal Day,no,Tuesday,not holiday,weekDay
+9/23/2020,39,Normal Day,no,Wednesday,not holiday,weekDay
+9/24/2020,39,Normal Day,no,Thursday,not holiday,weekDay
+9/25/2020,39,Normal Day,no,Friday,not holiday,weekDay
+9/26/2020,39,Normal Day,no,Saturday,holiday,weekEnd
+9/27/2020,39,Normal Day,no,Sunday,holiday,weekEnd
+9/28/2020,39,Normal Day,no,Monday,not holiday,weekDay
+9/29/2020,39,Normal Day,no,Tuesday,not holiday,weekDay
+9/30/2020,40,Normal Day,no,Wednesday,not holiday,weekDay
+10/1/2020,40,Normal Day,no,Thursday,not holiday,weekDay
+10/2/2020,40,The End of Buddhist Lent Day,yes,Friday,holiday,Spacial
+10/3/2020,40,Normal Day,yes,Saturday,holiday,weekEnd
+10/4/2020,40,Normal Day,yes,Sunday,holiday,weekEnd
+10/5/2020,40,Normal Day,no,Monday,not holiday,weekDay
+10/6/2020,40,Normal Day,no,Tuesday,not holiday,weekDay
+10/7/2020,41,Normal Day,no,Wednesday,not holiday,weekDay
+10/8/2020,41,Normal Day,no,Thursday,not holiday,weekDay
+10/9/2020,41,Normal Day,no,Friday,not holiday,weekDay
+10/10/2020,41,Normal Day,no,Saturday,holiday,weekEnd
+10/11/2020,41,Normal Day,no,Sunday,holiday,weekEnd
+10/12/2020,41,Normal Day,no,Monday,not holiday,weekDay
+10/13/2020,41,H.M. King Bhumibol Adulyadej Memorial Day,no,Tuesday,holiday,Spacial
+10/14/2020,42,Normal Day,no,Wednesday,not holiday,weekDay
+10/15/2020,42,Normal Day,no,Thursday,not holiday,weekDay
+10/16/2020,42,Normal Day,no,Friday,not holiday,weekDay
+10/17/2020,42,Normal Day,no,Saturday,holiday,weekEnd
+10/18/2020,42,Normal Day,no,Sunday,holiday,weekEnd
+10/19/2020,42,Normal Day,no,Monday,not holiday,weekDay
+10/20/2020,42,Normal Day,no,Tuesday,not holiday,weekDay
+10/21/2020,43,Normal Day,no,Wednesday,not holiday,weekDay
+10/22/2020,43,Normal Day,no,Thursday,not holiday,weekDay
+10/23/2020,43,Chulalongkorn Day,yes,Friday,holiday,Spacial
+10/24/2020,43,Normal Day,yes,Saturday,holiday,weekEnd
+10/25/2020,43,Normal Day,yes,Sunday,holiday,weekEnd
+10/26/2020,43,Normal Day,no,Monday,not holiday,weekDay
+10/27/2020,43,Normal Day,no,Tuesday,not holiday,weekDay
+10/28/2020,44,Normal Day,no,Wednesday,not holiday,weekDay
+10/29/2020,44,Normal Day,no,Thursday,not holiday,weekDay
+10/30/2020,44,Normal Day,no,Friday,not holiday,weekDay
+10/31/2020,44,Normal Day,no,Saturday,holiday,weekEnd
+11/1/2020,44,Normal Day,no,Sunday,holiday,weekEnd
+11/2/2020,44,Normal Day,no,Monday,not holiday,weekDay
+11/3/2020,44,Normal Day,no,Tuesday,not holiday,weekDay
+11/4/2020,45,Normal Day,no,Wednesday,not holiday,weekDay
+11/5/2020,45,Normal Day,no,Thursday,not holiday,weekDay
+11/6/2020,45,Normal Day,no,Friday,not holiday,weekDay
+11/7/2020,45,Normal Day,no,Saturday,holiday,weekEnd
+11/8/2020,45,Normal Day,no,Sunday,holiday,weekEnd
+11/9/2020,45,Normal Day,no,Monday,not holiday,weekDay
+11/10/2020,45,Normal Day,no,Tuesday,not holiday,weekDay
+11/11/2020,46,Normal Day,no,Wednesday,not holiday,weekDay
+11/12/2020,46,Normal Day,no,Thursday,not holiday,weekDay
+11/13/2020,46,Normal Day,no,Friday,not holiday,weekDay
+11/14/2020,46,Normal Day,no,Saturday,holiday,weekEnd
+11/15/2020,46,Normal Day,no,Sunday,holiday,weekEnd
+11/16/2020,46,Normal Day,no,Monday,not holiday,weekDay
+11/17/2020,46,Normal Day,no,Tuesday,not holiday,weekDay
+11/18/2020,47,Normal Day,no,Wednesday,not holiday,weekDay
+11/19/2020,47,Special Holidays,yes,Thursday,holiday,Spacial
+11/20/2020,47,Special Holidays,yes,Friday,holiday,Spacial
+11/21/2020,47,Normal Day,yes,Saturday,holiday,weekEnd
+11/22/2020,47,Normal Day,yes,Sunday,holiday,weekEnd
+11/23/2020,47,Normal Day,no,Monday,not holiday,weekDay
+11/24/2020,47,Normal Day,no,Tuesday,not holiday,weekDay
+11/25/2020,48,Normal Day,no,Wednesday,not holiday,weekDay
+11/26/2020,48,Normal Day,no,Thursday,not holiday,weekDay
+11/27/2020,48,Normal Day,no,Friday,not holiday,weekDay
+11/28/2020,48,Normal Day,no,Saturday,holiday,weekEnd
+11/29/2020,48,Normal Day,no,Sunday,holiday,weekEnd
+11/30/2020,48,Normal Day,no,Monday,not holiday,weekDay
+12/1/2020,48,Normal Day,no,Tuesday,not holiday,weekDay
+12/2/2020,49,Normal Day,no,Wednesday,not holiday,weekDay
+12/3/2020,49,Normal Day,no,Thursday,not holiday,weekDay
+12/4/2020,49,Normal Day,no,Friday,not holiday,weekDay
+12/5/2020,49,Father's Day,yes,Saturday,holiday,Spacial
+12/6/2020,49,Normal Day,yes,Sunday,holiday,weekEnd
+12/7/2020,49,Compensatory Holiday,yes,Monday,holiday,Spacial
+12/8/2020,49,Normal Day,no,Tuesday,not holiday,weekDay
+12/9/2020,50,Normal Day,no,Wednesday,not holiday,weekDay
+12/10/2020,50,Constitution Day,yes,Thursday,holiday,Spacial
+12/11/2020,50,Compensatory Holiday,yes,Friday,holiday,Spacial
+12/12/2020,50,Special Holidays,yes,Saturday,holiday,Spacial
+12/13/2020,50,Special Holidays,yes,Sunday,holiday,Spacial
+12/14/2020,50,Normal Day,no,Monday,not holiday,weekDay
+12/15/2020,50,Normal Day,no,Tuesday,not holiday,weekDay
+12/16/2020,51,Normal Day,no,Wednesday,not holiday,weekDay
+12/17/2020,51,Normal Day,no,Thursday,not holiday,weekDay
+12/18/2020,51,Normal Day,no,Friday,not holiday,weekDay
+12/19/2020,51,Normal Day,no,Saturday,holiday,weekEnd
+12/20/2020,51,Normal Day,no,Sunday,holiday,weekEnd
+12/21/2020,51,Normal Day,no,Monday,not holiday,weekDay
+12/22/2020,51,Normal Day,no,Tuesday,not holiday,weekDay
+12/23/2020,52,Normal Day,no,Wednesday,not holiday,weekDay
+12/24/2020,52,Normal Day,no,Thursday,not holiday,weekDay
+12/25/2020,52,Normal Day,no,Friday,not holiday,weekDay
+12/26/2020,52,Normal Day,no,Saturday,holiday,weekEnd
+12/27/2020,52,Normal Day,no,Sunday,holiday,weekEnd
+12/28/2020,52,Normal Day,no,Monday,not holiday,weekDay
+12/29/2020,52,Normal Day,no,Tuesday,not holiday,weekDay
+12/30/2020,53,Normal Day,no,Wednesday,not holiday,weekDay
+12/31/2020,53,New Year's Eve,yes,Thursday,holiday,Spacial
+1/1/2021,1,New Year's Day,yes,Friday,holiday,Spacial
+1/2/2021,1,Normal Day,yes,Saturday,holiday,weekEnd
+1/3/2021,1,Normal Day,yes,Sunday,holiday,weekEnd
+1/4/2021,1,Normal Day,no,Monday,not holiday,weekDay
+1/5/2021,1,Normal Day,no,Tuesday,not holiday,weekDay
+1/6/2021,1,Normal Day,no,Wednesday,not holiday,weekDay
+1/7/2021,1,Normal Day,no,Thursday,not holiday,weekDay
+1/8/2021,2,Normal Day,no,Friday,not holiday,weekDay
+1/9/2021,2,Normal Day,no,Saturday,holiday,weekEnd
+1/10/2021,2,Normal Day,no,Sunday,holiday,weekEnd
+1/11/2021,2,Normal Day,no,Monday,not holiday,weekDay
+1/12/2021,2,Normal Day,no,Tuesday,not holiday,weekDay
+1/13/2021,2,Normal Day,no,Wednesday,not holiday,weekDay
+1/14/2021,2,Normal Day,no,Thursday,not holiday,weekDay
+1/15/2021,3,Normal Day,no,Friday,not holiday,weekDay
+1/16/2021,3,Normal Day,no,Saturday,holiday,weekEnd
+1/17/2021,3,Normal Day,no,Sunday,holiday,weekEnd
+1/18/2021,3,Normal Day,no,Monday,not holiday,weekDay
+1/19/2021,3,Normal Day,no,Tuesday,not holiday,weekDay
+1/20/2021,3,Normal Day,no,Wednesday,not holiday,weekDay
+1/21/2021,3,Normal Day,no,Thursday,not holiday,weekDay
+1/22/2021,4,Normal Day,no,Friday,not holiday,weekDay
+1/23/2021,4,Normal Day,no,Saturday,holiday,weekEnd
+1/24/2021,4,Normal Day,no,Sunday,holiday,weekEnd
+1/25/2021,4,Normal Day,no,Monday,not holiday,weekDay
+1/26/2021,4,Normal Day,no,Tuesday,not holiday,weekDay
+1/27/2021,4,Normal Day,no,Wednesday,not holiday,weekDay
+1/28/2021,4,Normal Day,no,Thursday,not holiday,weekDay
+1/29/2021,5,Normal Day,no,Friday,not holiday,weekDay
+1/30/2021,5,Normal Day,no,Saturday,holiday,weekEnd
+1/31/2021,5,Normal Day,no,Sunday,holiday,weekEnd
+2/1/2021,5,Normal Day,no,Monday,not holiday,weekDay
+2/2/2021,5,Normal Day,no,Tuesday,not holiday,weekDay
+2/3/2021,5,Normal Day,no,Wednesday,not holiday,weekDay
+2/4/2021,5,Normal Day,no,Thursday,not holiday,weekDay
+2/5/2021,6,Normal Day,no,Friday,not holiday,weekDay
+2/6/2021,6,Normal Day,no,Saturday,holiday,weekEnd
+2/7/2021,6,Normal Day,no,Sunday,holiday,weekEnd
+2/8/2021,6,Normal Day,no,Monday,not holiday,weekDay
+2/9/2021,6,Normal Day,no,Tuesday,not holiday,weekDay
+2/10/2021,6,Normal Day,no,Wednesday,not holiday,weekDay
+2/11/2021,6,Normal Day,no,Thursday,not holiday,weekDay
+2/12/2021,7,Special Holidays,yes,Friday,holiday,Spacial
+2/13/2021,7,Normal Day,yes,Saturday,holiday,weekEnd
+2/14/2021,7,Normal Day,yes,Sunday,holiday,weekEnd
+2/15/2021,7,Normal Day,no,Monday,not holiday,weekDay
+2/16/2021,7,Normal Day,no,Tuesday,not holiday,weekDay
+2/17/2021,7,Normal Day,no,Wednesday,not holiday,weekDay
+2/18/2021,7,Normal Day,no,Thursday,not holiday,weekDay
+2/19/2021,8,Normal Day,no,Friday,not holiday,weekDay
+2/20/2021,8,Normal Day,no,Saturday,holiday,weekEnd
+2/21/2021,8,Normal Day,no,Sunday,holiday,weekEnd
+2/22/2021,8,Normal Day,no,Monday,not holiday,weekDay
+2/23/2021,8,Normal Day,no,Tuesday,not holiday,weekDay
+2/24/2021,8,Normal Day,no,Wednesday,not holiday,weekDay
+2/25/2021,8,Normal Day,no,Thursday,not holiday,weekDay
+2/26/2021,9,Makha Bucha Day,yes,Friday,holiday,Spacial
+2/27/2021,9,Normal Day,yes,Saturday,holiday,weekEnd
+2/28/2021,9,Normal Day,yes,Sunday,holiday,weekEnd
+3/1/2021,9,Normal Day,no,Monday,not holiday,weekDay
+3/2/2021,9,Normal Day,no,Tuesday,not holiday,weekDay
+3/3/2021,9,Normal Day,no,Wednesday,not holiday,weekDay
+3/4/2021,9,Normal Day,no,Thursday,not holiday,weekDay
+3/5/2021,10,Normal Day,no,Friday,not holiday,weekDay
+3/6/2021,10,Normal Day,no,Saturday,holiday,weekEnd
+3/7/2021,10,Normal Day,no,Sunday,holiday,weekEnd
+3/8/2021,10,Normal Day,no,Monday,not holiday,weekDay
+3/9/2021,10,Normal Day,no,Tuesday,not holiday,weekDay
+3/10/2021,10,Normal Day,no,Wednesday,not holiday,weekDay
+3/11/2021,10,Normal Day,no,Thursday,not holiday,weekDay
+3/12/2021,11,Normal Day,no,Friday,not holiday,weekDay
+3/13/2021,11,Normal Day,no,Saturday,holiday,weekEnd
+3/14/2021,11,Normal Day,no,Sunday,holiday,weekEnd
+3/15/2021,11,Normal Day,no,Monday,not holiday,weekDay
+3/16/2021,11,Normal Day,no,Tuesday,not holiday,weekDay
+3/17/2021,11,Normal Day,no,Wednesday,not holiday,weekDay
+3/18/2021,11,Normal Day,no,Thursday,not holiday,weekDay
+3/19/2021,12,Normal Day,no,Friday,not holiday,weekDay
+3/20/2021,12,Normal Day,no,Saturday,holiday,weekEnd
+3/21/2021,12,Normal Day,no,Sunday,holiday,weekEnd
+3/22/2021,12,Normal Day,no,Monday,not holiday,weekDay
+3/23/2021,12,Normal Day,no,Tuesday,not holiday,weekDay
+3/24/2021,12,Normal Day,no,Wednesday,not holiday,weekDay
+3/25/2021,12,Normal Day,no,Thursday,not holiday,weekDay
+3/26/2021,13,Normal Day,no,Friday,not holiday,weekDay
+3/27/2021,13,Normal Day,no,Saturday,holiday,weekEnd
+3/28/2021,13,Normal Day,no,Sunday,holiday,weekEnd
+3/29/2021,13,Normal Day,no,Monday,not holiday,weekDay
+3/30/2021,13,Normal Day,no,Tuesday,not holiday,weekDay
+3/31/2021,13,Normal Day,no,Wednesday,not holiday,weekDay
+4/1/2021,13,Normal Day,no,Thursday,not holiday,weekDay
+4/2/2021,14,Normal Day,no,Friday,not holiday,weekDay
+4/3/2021,14,Normal Day,no,Saturday,holiday,weekEnd
+4/4/2021,14,Normal Day,no,Sunday,holiday,weekEnd
+4/5/2021,14,Normal Day,no,Monday,not holiday,weekDay
+4/6/2021,14,Chakri Memorial Day,no,Tuesday,holiday,Spacial
+4/7/2021,14,Normal Day,no,Wednesday,not holiday,weekDay
+4/8/2021,14,Normal Day,no,Thursday,not holiday,weekDay
+4/9/2021,15,Normal Day,no,Friday,not holiday,weekDay
+4/10/2021,15,Normal Day,yes,Saturday,holiday,weekEnd
+4/11/2021,15,Normal Day,yes,Sunday,holiday,weekEnd
+4/12/2021,15,Special Holidays,yes,Monday,holiday,Spacial
+4/13/2021,15,Songkran Festival,yes,Tuesday,holiday,Spacial
+4/14/2021,15,Songkran Festival,yes,Wednesday,holiday,Spacial
+4/15/2021,15,Songkran Festival,yes,Thursday,holiday,Spacial
+4/16/2021,16,Normal Day,no,Friday,not holiday,weekDay
+4/17/2021,16,Normal Day,no,Saturday,holiday,weekEnd
+4/18/2021,16,Normal Day,no,Sunday,holiday,weekEnd
+4/19/2021,16,Normal Day,no,Monday,not holiday,weekDay
+4/20/2021,16,Normal Day,no,Tuesday,not holiday,weekDay
+4/21/2021,16,Normal Day,no,Wednesday,not holiday,weekDay
+4/22/2021,16,Normal Day,no,Thursday,not holiday,weekDay
+4/23/2021,17,Normal Day,no,Friday,not holiday,weekDay
+4/24/2021,17,Normal Day,no,Saturday,holiday,weekEnd
+4/25/2021,17,Normal Day,no,Sunday,holiday,weekEnd
+4/26/2021,17,Normal Day,no,Monday,not holiday,weekDay
+4/27/2021,17,Normal Day,no,Tuesday,not holiday,weekDay
+4/28/2021,17,Normal Day,no,Wednesday,not holiday,weekDay
+4/29/2021,17,Normal Day,no,Thursday,not holiday,weekDay
+4/30/2021,18,Normal Day,no,Friday,not holiday,weekDay
+5/1/2021,18,Labour Day,yes,Saturday,holiday,Spacial
+5/2/2021,18,Normal Day,yes,Sunday,holiday,weekEnd
+5/3/2021,18,Compensatory Holiday,yes,Monday,holiday,Spacial
+5/4/2021,18,Coronation Day,yes,Tuesday,holiday,Spacial
+5/5/2021,18,Normal Day,no,Wednesday,not holiday,weekDay
+5/6/2021,18,Normal Day,no,Thursday,not holiday,weekDay
+5/7/2021,19,Normal Day,no,Friday,not holiday,weekDay
+5/8/2021,19,Normal Day,no,Saturday,holiday,weekEnd
+5/9/2021,19,Normal Day,no,Sunday,holiday,weekEnd
+5/10/2021,19,Normal Day,no,Monday,not holiday,weekDay
+5/11/2021,19,Normal Day,no,Tuesday,not holiday,weekDay
+5/12/2021,19,Normal Day,no,Wednesday,not holiday,weekDay
+5/13/2021,19,Normal Day,no,Thursday,not holiday,weekDay
+5/14/2021,20,Normal Day,no,Friday,not holiday,weekDay
+5/15/2021,20,Normal Day,no,Saturday,holiday,weekEnd
+5/16/2021,20,Normal Day,no,Sunday,holiday,weekEnd
+5/17/2021,20,Normal Day,no,Monday,not holiday,weekDay
+5/18/2021,20,Normal Day,no,Tuesday,not holiday,weekDay
+5/19/2021,20,Normal Day,no,Wednesday,not holiday,weekDay
+5/20/2021,20,Normal Day,no,Thursday,not holiday,weekDay
+5/21/2021,21,Normal Day,no,Friday,not holiday,weekDay
+5/22/2021,21,Normal Day,no,Saturday,holiday,weekEnd
+5/23/2021,21,Normal Day,no,Sunday,holiday,weekEnd
+5/24/2021,21,Normal Day,no,Monday,not holiday,weekDay
+5/25/2021,21,Normal Day,no,Tuesday,not holiday,weekDay
+5/26/2021,21,Vesak Day,no,Wednesday,holiday,Spacial
+5/27/2021,21,Normal Day,no,Thursday,not holiday,weekDay
+5/28/2021,22,Normal Day,no,Friday,not holiday,weekDay
+5/29/2021,22,Normal Day,no,Saturday,holiday,weekEnd
+5/30/2021,22,Normal Day,no,Sunday,holiday,weekEnd
+5/31/2021,22,Normal Day,no,Monday,not holiday,weekDay
+6/1/2021,22,Normal Day,no,Tuesday,not holiday,weekDay
+6/2/2021,22,Normal Day,no,Wednesday,not holiday,weekDay
+6/3/2021,22,H.M. The Queen Suthida's Birthday,no,Thursday,holiday,Spacial
+6/4/2021,23,Normal Day,no,Friday,not holiday,weekDay
+6/5/2021,23,Normal Day,no,Saturday,holiday,weekEnd
+6/6/2021,23,Normal Day,no,Sunday,holiday,weekEnd
+6/7/2021,23,Normal Day,no,Monday,not holiday,weekDay
+6/8/2021,23,Normal Day,no,Tuesday,not holiday,weekDay
+6/9/2021,23,Normal Day,no,Wednesday,not holiday,weekDay
+6/10/2021,23,Normal Day,no,Thursday,not holiday,weekDay
+6/11/2021,24,Normal Day,no,Friday,not holiday,weekDay
+6/12/2021,24,Normal Day,no,Saturday,holiday,weekEnd
+6/13/2021,24,Normal Day,no,Sunday,holiday,weekEnd
+6/14/2021,24,Normal Day,no,Monday,not holiday,weekDay
+6/15/2021,24,Normal Day,no,Tuesday,not holiday,weekDay
+6/16/2021,24,Normal Day,no,Wednesday,not holiday,weekDay
+6/17/2021,24,Normal Day,no,Thursday,not holiday,weekDay
+6/18/2021,25,Normal Day,no,Friday,not holiday,weekDay
+6/19/2021,25,Normal Day,no,Saturday,holiday,weekEnd
+6/20/2021,25,Normal Day,no,Sunday,holiday,weekEnd
+6/21/2021,25,Normal Day,no,Monday,not holiday,weekDay
+6/22/2021,25,Normal Day,no,Tuesday,not holiday,weekDay
+6/23/2021,25,Normal Day,no,Wednesday,not holiday,weekDay
+6/24/2021,25,Normal Day,no,Thursday,not holiday,weekDay
+6/25/2021,26,Normal Day,no,Friday,not holiday,weekDay
+6/26/2021,26,Normal Day,no,Saturday,holiday,weekEnd
+6/27/2021,26,Normal Day,no,Sunday,holiday,weekEnd
+6/28/2021,26,Normal Day,no,Monday,not holiday,weekDay
+6/29/2021,26,Normal Day,no,Tuesday,not holiday,weekDay
+6/30/2021,26,Normal Day,no,Wednesday,not holiday,weekDay
+7/1/2021,26,Normal Day,no,Thursday,not holiday,weekDay
+7/2/2021,27,Normal Day,no,Friday,not holiday,weekDay
+7/3/2021,27,Normal Day,no,Saturday,holiday,weekEnd
+7/4/2021,27,Normal Day,no,Sunday,holiday,weekEnd
+7/5/2021,27,Normal Day,no,Monday,not holiday,weekDay
+7/6/2021,27,Normal Day,no,Tuesday,not holiday,weekDay
+7/7/2021,27,Normal Day,no,Wednesday,not holiday,weekDay
+7/8/2021,27,Normal Day,no,Thursday,not holiday,weekDay
+7/9/2021,28,Normal Day,no,Friday,not holiday,weekDay
+7/10/2021,28,Normal Day,no,Saturday,holiday,weekEnd
+7/11/2021,28,Normal Day,no,Sunday,holiday,weekEnd
+7/12/2021,28,Normal Day,no,Monday,not holiday,weekDay
+7/13/2021,28,Normal Day,no,Tuesday,not holiday,weekDay
+7/14/2021,28,Normal Day,no,Wednesday,not holiday,weekDay
+7/15/2021,28,Normal Day,no,Thursday,not holiday,weekDay
+7/16/2021,29,Normal Day,no,Friday,not holiday,weekDay
+7/17/2021,29,Normal Day,no,Saturday,holiday,weekEnd
+7/18/2021,29,Normal Day,no,Sunday,holiday,weekEnd
+7/19/2021,29,Normal Day,no,Monday,not holiday,weekDay
+7/20/2021,29,Normal Day,no,Tuesday,not holiday,weekDay
+7/21/2021,29,Normal Day,no,Wednesday,not holiday,weekDay
+7/22/2021,29,Normal Day,no,Thursday,not holiday,weekDay
+7/23/2021,30,Normal Day,no,Friday,not holiday,weekDay
+7/24/2021,30,Asalha Puja Day,yes,Saturday,holiday,Spacial
+7/25/2021,30,Buddhist Lent Day,yes,Sunday,holiday,Spacial
+7/26/2021,30,Compensatory Holiday,yes,Monday,holiday,Spacial
+7/27/2021,30,Normal Day,no,Tuesday,not holiday,weekDay
+7/28/2021,30,H.M.King Maha Vajiralongkorn's Birthday,no,Wednesday,holiday,Spacial
+7/29/2021,30,Normal Day,no,Thursday,not holiday,weekDay
+7/30/2021,31,Normal Day,no,Friday,not holiday,weekDay
+7/31/2021,31,Normal Day,no,Saturday,holiday,weekEnd
+8/1/2021,31,Normal Day,no,Sunday,holiday,weekEnd
+8/2/2021,31,Normal Day,no,Monday,not holiday,weekDay
+8/3/2021,31,Normal Day,no,Tuesday,not holiday,weekDay
+8/4/2021,31,Normal Day,no,Wednesday,not holiday,weekDay
+8/5/2021,31,Normal Day,no,Thursday,not holiday,weekDay
+8/6/2021,32,Normal Day,no,Friday,not holiday,weekDay
+8/7/2021,32,Normal Day,no,Saturday,holiday,weekEnd
+8/8/2021,32,Normal Day,no,Sunday,holiday,weekEnd
+8/9/2021,32,Normal Day,no,Monday,not holiday,weekDay
+8/10/2021,32,Normal Day,no,Tuesday,not holiday,weekDay
+8/11/2021,32,Normal Day,no,Wednesday,not holiday,weekDay
+8/12/2021,32,Mother's Day,no,Thursday,holiday,Spacial
+8/13/2021,33,Normal Day,no,Friday,not holiday,weekDay
+8/14/2021,33,Normal Day,no,Saturday,holiday,weekEnd
+8/15/2021,33,Normal Day,no,Sunday,holiday,weekEnd
+8/16/2021,33,Normal Day,no,Monday,not holiday,weekDay
+8/17/2021,33,Normal Day,no,Tuesday,not holiday,weekDay
+8/18/2021,33,Normal Day,no,Wednesday,not holiday,weekDay
+8/19/2021,33,Normal Day,no,Thursday,not holiday,weekDay
+8/20/2021,34,Normal Day,no,Friday,not holiday,weekDay
+8/21/2021,34,Normal Day,no,Saturday,holiday,weekEnd
+8/22/2021,34,Normal Day,no,Sunday,holiday,weekEnd
+8/23/2021,34,Normal Day,no,Monday,not holiday,weekDay
+8/24/2021,34,Normal Day,no,Tuesday,not holiday,weekDay
+8/25/2021,34,Normal Day,no,Wednesday,not holiday,weekDay
+8/26/2021,34,Normal Day,no,Thursday,not holiday,weekDay
+8/27/2021,35,Normal Day,no,Friday,not holiday,weekDay
+8/28/2021,35,Normal Day,no,Saturday,holiday,weekEnd
+8/29/2021,35,Normal Day,no,Sunday,holiday,weekEnd
+8/30/2021,35,Normal Day,no,Monday,not holiday,weekDay
+8/31/2021,35,Normal Day,no,Tuesday,not holiday,weekDay
+9/1/2021,35,Normal Day,no,Wednesday,not holiday,weekDay
+9/2/2021,35,Normal Day,no,Thursday,not holiday,weekDay
+9/3/2021,36,Normal Day,no,Friday,not holiday,weekDay
+9/4/2021,36,Normal Day,no,Saturday,holiday,weekEnd
+9/5/2021,36,Normal Day,no,Sunday,holiday,weekEnd
+9/6/2021,36,Normal Day,no,Monday,not holiday,weekDay
+9/7/2021,36,Normal Day,no,Tuesday,not holiday,weekDay
+9/8/2021,36,Normal Day,no,Wednesday,not holiday,weekDay
+9/9/2021,36,Normal Day,no,Thursday,not holiday,weekDay
+9/10/2021,37,Normal Day,no,Friday,not holiday,weekDay
+9/11/2021,37,Normal Day,no,Saturday,holiday,weekEnd
+9/12/2021,37,Normal Day,no,Sunday,holiday,weekEnd
+9/13/2021,37,Normal Day,no,Monday,not holiday,weekDay
+9/14/2021,37,Normal Day,no,Tuesday,not holiday,weekDay
+9/15/2021,37,Normal Day,no,Wednesday,not holiday,weekDay
+9/16/2021,37,Normal Day,no,Thursday,not holiday,weekDay
+9/17/2021,38,Normal Day,no,Friday,not holiday,weekDay
+9/18/2021,38,Normal Day,no,Saturday,holiday,weekEnd
+9/19/2021,38,Normal Day,no,Sunday,holiday,weekEnd
+9/20/2021,38,Normal Day,no,Monday,not holiday,weekDay
+9/21/2021,38,Normal Day,no,Tuesday,not holiday,weekDay
+9/22/2021,38,Normal Day,no,Wednesday,not holiday,weekDay
+9/23/2021,38,Normal Day,no,Thursday,not holiday,weekDay
+9/24/2021,39,Special Holidays,yes,Friday,holiday,Spacial
+9/25/2021,39,Normal Day,yes,Saturday,holiday,weekEnd
+9/26/2021,39,Normal Day,yes,Sunday,holiday,weekEnd
+9/27/2021,39,Normal Day,no,Monday,not holiday,weekDay
+9/28/2021,39,Normal Day,no,Tuesday,not holiday,weekDay
+9/29/2021,39,Normal Day,no,Wednesday,not holiday,weekDay
+9/30/2021,39,Normal Day,no,Thursday,not holiday,weekDay
+10/1/2021,40,Normal Day,no,Friday,not holiday,weekDay
+10/2/2021,40,Normal Day,no,Saturday,holiday,weekEnd
+10/3/2021,40,Normal Day,no,Sunday,holiday,weekEnd
+10/4/2021,40,Normal Day,no,Monday,not holiday,weekDay
+10/5/2021,40,Normal Day,no,Tuesday,not holiday,weekDay
+10/6/2021,40,Normal Day,no,Wednesday,not holiday,weekDay
+10/7/2021,40,Normal Day,no,Thursday,not holiday,weekDay
+10/8/2021,41,Normal Day,no,Friday,not holiday,weekDay
+10/9/2021,41,Normal Day,no,Saturday,holiday,weekEnd
+10/10/2021,41,Normal Day,no,Sunday,holiday,weekEnd
+10/11/2021,41,Normal Day,no,Monday,not holiday,weekDay
+10/12/2021,41,Normal Day,no,Tuesday,not holiday,weekDay
+10/13/2021,41,H.M. King Bhumibol Adulyadej Memorial Day,no,Wednesday,holiday,Spacial
+10/14/2021,41,Normal Day,no,Thursday,not holiday,weekDay
+10/15/2021,42,Normal Day,no,Friday,not holiday,weekDay
+10/16/2021,42,Normal Day,no,Saturday,holiday,weekEnd
+10/17/2021,42,Normal Day,no,Sunday,holiday,weekEnd
+10/18/2021,42,Normal Day,no,Monday,not holiday,weekDay
+10/19/2021,42,Normal Day,no,Tuesday,not holiday,weekDay
+10/20/2021,42,Normal Day,no,Wednesday,not holiday,weekDay
+10/21/2021,42,The End of Buddhist Lent Day,yes,Thursday,holiday,Spacial
+10/22/2021,43,Compensatory Holiday,yes,Friday,holiday,Spacial
+10/23/2021,43,Chulalongkorn Day,yes,Saturday,holiday,Spacial
+10/24/2021,43,Normal Day,yes,Sunday,holiday,weekEnd
+10/25/2021,43,Normal Day,no,Monday,not holiday,weekDay
+10/26/2021,43,Normal Day,no,Tuesday,not holiday,weekDay
+10/27/2021,43,Normal Day,no,Wednesday,not holiday,weekDay
+10/28/2021,43,Normal Day,no,Thursday,not holiday,weekDay
+10/29/2021,44,Normal Day,no,Friday,not holiday,weekDay
+10/30/2021,44,Normal Day,no,Saturday,holiday,weekEnd
+10/31/2021,44,Normal Day,no,Sunday,holiday,weekEnd
+11/1/2021,44,Normal Day,no,Monday,not holiday,weekDay
+11/2/2021,44,Normal Day,no,Tuesday,not holiday,weekDay
+11/3/2021,44,Normal Day,no,Wednesday,not holiday,weekDay
+11/4/2021,44,Normal Day,no,Thursday,not holiday,weekDay
+11/5/2021,45,Normal Day,no,Friday,not holiday,weekDay
+11/6/2021,45,Normal Day,no,Saturday,holiday,weekEnd
+11/7/2021,45,Normal Day,no,Sunday,holiday,weekEnd
+11/8/2021,45,Normal Day,no,Monday,not holiday,weekDay
+11/9/2021,45,Normal Day,no,Tuesday,not holiday,weekDay
+11/10/2021,45,Normal Day,no,Wednesday,not holiday,weekDay
+11/11/2021,45,Normal Day,no,Thursday,not holiday,weekDay
+11/12/2021,46,Normal Day,no,Friday,not holiday,weekDay
+11/13/2021,46,Normal Day,no,Saturday,holiday,weekEnd
+11/14/2021,46,Normal Day,no,Sunday,holiday,weekEnd
+11/15/2021,46,Normal Day,no,Monday,not holiday,weekDay
+11/16/2021,46,Normal Day,no,Tuesday,not holiday,weekDay
+11/17/2021,46,Normal Day,no,Wednesday,not holiday,weekDay
+11/18/2021,46,Normal Day,no,Thursday,not holiday,weekDay
+11/19/2021,47,Normal Day,no,Friday,not holiday,weekDay
+11/20/2021,47,Normal Day,no,Saturday,holiday,weekEnd
+11/21/2021,47,Normal Day,no,Sunday,holiday,weekEnd
+11/22/2021,47,Normal Day,no,Monday,not holiday,weekDay
+11/23/2021,47,Normal Day,no,Tuesday,not holiday,weekDay
+11/24/2021,47,Normal Day,no,Wednesday,not holiday,weekDay
+11/25/2021,47,Normal Day,no,Thursday,not holiday,weekDay
+11/26/2021,48,Normal Day,no,Friday,not holiday,weekDay
+11/27/2021,48,Normal Day,no,Saturday,holiday,weekEnd
+11/28/2021,48,Normal Day,no,Sunday,holiday,weekEnd
+11/29/2021,48,Normal Day,no,Monday,not holiday,weekDay
+11/30/2021,48,Normal Day,no,Tuesday,not holiday,weekDay
+12/1/2021,48,Normal Day,no,Wednesday,not holiday,weekDay
+12/2/2021,48,Normal Day,no,Thursday,not holiday,weekDay
+12/3/2021,49,Normal Day,no,Friday,not holiday,weekDay
+12/4/2021,49,Normal Day,yes,Saturday,holiday,weekEnd
+12/5/2021,49,Father's Day,yes,Sunday,holiday,Spacial
+12/6/2021,49,Compensatory Holiday,yes,Monday,holiday,Spacial
+12/7/2021,49,Normal Day,no,Tuesday,not holiday,weekDay
+12/8/2021,49,Normal Day,no,Wednesday,not holiday,weekDay
+12/9/2021,49,Normal Day,no,Thursday,not holiday,weekDay
+12/10/2021,50,Constitution Day,yes,Friday,holiday,Spacial
+12/11/2021,50,Normal Day,yes,Saturday,holiday,weekEnd
+12/12/2021,50,Normal Day,yes,Sunday,holiday,weekEnd
+12/13/2021,50,Normal Day,no,Monday,not holiday,weekDay
+12/14/2021,50,Normal Day,no,Tuesday,not holiday,weekDay
+12/15/2021,50,Normal Day,no,Wednesday,not holiday,weekDay
+12/16/2021,50,Normal Day,no,Thursday,not holiday,weekDay
+12/17/2021,51,Normal Day,no,Friday,not holiday,weekDay
+12/18/2021,51,Normal Day,no,Saturday,holiday,weekEnd
+12/19/2021,51,Normal Day,no,Sunday,holiday,weekEnd
+12/20/2021,51,Normal Day,no,Monday,not holiday,weekDay
+12/21/2021,51,Normal Day,no,Tuesday,not holiday,weekDay
+12/22/2021,51,Normal Day,no,Wednesday,not holiday,weekDay
+12/23/2021,51,Normal Day,no,Thursday,not holiday,weekDay
+12/24/2021,52,Normal Day,no,Friday,not holiday,weekDay
+12/25/2021,52,Normal Day,no,Saturday,holiday,weekEnd
+12/26/2021,52,Normal Day,no,Sunday,holiday,weekEnd
+12/27/2021,52,Normal Day,no,Monday,not holiday,weekDay
+12/28/2021,52,Normal Day,no,Tuesday,not holiday,weekDay
+12/29/2021,52,Normal Day,no,Wednesday,not holiday,weekDay
+12/30/2021,52,Normal Day,no,Thursday,not holiday,weekDay
+12/31/2021,53,New Year's Eve,yes,Friday,holiday,Spacial
+1/1/2022,1,New Year's Day,yes,Saturday,holiday,Spacial
+1/2/2022,1,Normal Day,yes,Sunday,holiday,weekEnd
+1/3/2022,1,Compensatory Holiday,yes,Monday,holiday,Spacial
+1/4/2022,1,Normal Day,no,Tuesday,not holiday,weekDay
+1/5/2022,1,Normal Day,no,Wednesday,not holiday,weekDay
+1/6/2022,1,Normal Day,no,Thursday,not holiday,weekDay
+1/7/2022,1,Normal Day,no,Friday,not holiday,weekDay
+1/8/2022,2,Normal Day,no,Saturday,holiday,weekEnd
+1/9/2022,2,Normal Day,no,Sunday,holiday,weekEnd
+1/10/2022,2,Normal Day,no,Monday,not holiday,weekDay
+1/11/2022,2,Normal Day,no,Tuesday,not holiday,weekDay
+1/12/2022,2,Normal Day,no,Wednesday,not holiday,weekDay
+1/13/2022,2,Normal Day,no,Thursday,not holiday,weekDay
+1/14/2022,2,Normal Day,no,Friday,not holiday,weekDay
+1/15/2022,3,Normal Day,no,Saturday,holiday,weekEnd
+1/16/2022,3,Normal Day,no,Sunday,holiday,weekEnd
+1/17/2022,3,Normal Day,no,Monday,not holiday,weekDay
+1/18/2022,3,Normal Day,no,Tuesday,not holiday,weekDay
+1/19/2022,3,Normal Day,no,Wednesday,not holiday,weekDay
+1/20/2022,3,Normal Day,no,Thursday,not holiday,weekDay
+1/21/2022,3,Normal Day,no,Friday,not holiday,weekDay
+1/22/2022,4,Normal Day,no,Saturday,holiday,weekEnd
+1/23/2022,4,Normal Day,no,Sunday,holiday,weekEnd
+1/24/2022,4,Normal Day,no,Monday,not holiday,weekDay
+1/25/2022,4,Normal Day,no,Tuesday,not holiday,weekDay
+1/26/2022,4,Normal Day,no,Wednesday,not holiday,weekDay
+1/27/2022,4,Normal Day,no,Thursday,not holiday,weekDay
+1/28/2022,4,Normal Day,no,Friday,not holiday,weekDay
+1/29/2022,5,Normal Day,no,Saturday,holiday,weekEnd
+1/30/2022,5,Normal Day,no,Sunday,holiday,weekEnd
+1/31/2022,5,Normal Day,no,Monday,not holiday,weekDay
+2/1/2022,5,Normal Day,no,Tuesday,not holiday,weekDay
+2/2/2022,5,Normal Day,no,Wednesday,not holiday,weekDay
+2/3/2022,5,Normal Day,no,Thursday,not holiday,weekDay
+2/4/2022,5,Normal Day,no,Friday,not holiday,weekDay
+2/5/2022,6,Normal Day,no,Saturday,holiday,weekEnd
+2/6/2022,6,Normal Day,no,Sunday,holiday,weekEnd
+2/7/2022,6,Normal Day,no,Monday,not holiday,weekDay
+2/8/2022,6,Normal Day,no,Tuesday,not holiday,weekDay
+2/9/2022,6,Normal Day,no,Wednesday,not holiday,weekDay
+2/10/2022,6,Normal Day,no,Thursday,not holiday,weekDay
+2/11/2022,6,Normal Day,no,Friday,not holiday,weekDay
+2/12/2022,7,Normal Day,no,Saturday,holiday,weekEnd
+2/13/2022,7,Normal Day,no,Sunday,holiday,weekEnd
+2/14/2022,7,Normal Day,no,Monday,not holiday,weekDay
+2/15/2022,7,Normal Day,no,Tuesday,not holiday,weekDay
+2/16/2022,7,Makha Bucha Day,no,Wednesday,holiday,Spacial
+2/17/2022,7,Normal Day,no,Thursday,not holiday,weekDay
+2/18/2022,7,Normal Day,no,Friday,not holiday,weekDay
+2/19/2022,8,Normal Day,no,Saturday,holiday,weekEnd
+2/20/2022,8,Normal Day,no,Sunday,holiday,weekEnd
+2/21/2022,8,Normal Day,no,Monday,not holiday,weekDay
+2/22/2022,8,Normal Day,no,Tuesday,not holiday,weekDay
+2/23/2022,8,Normal Day,no,Wednesday,not holiday,weekDay
+2/24/2022,8,Normal Day,no,Thursday,not holiday,weekDay
+2/25/2022,8,Normal Day,no,Friday,not holiday,weekDay
+2/26/2022,9,Normal Day,no,Saturday,holiday,weekEnd
+2/27/2022,9,Normal Day,no,Sunday,holiday,weekEnd
+2/28/2022,9,Normal Day,no,Monday,not holiday,weekDay
+3/1/2022,9,Normal Day,no,Tuesday,not holiday,weekDay
+3/2/2022,9,Normal Day,no,Wednesday,not holiday,weekDay
+3/3/2022,9,Normal Day,no,Thursday,not holiday,weekDay
+3/4/2022,9,Normal Day,no,Friday,not holiday,weekDay
+3/5/2022,10,Normal Day,no,Saturday,holiday,weekEnd
+3/6/2022,10,Normal Day,no,Sunday,holiday,weekEnd
+3/7/2022,10,Normal Day,no,Monday,not holiday,weekDay
+3/8/2022,10,Normal Day,no,Tuesday,not holiday,weekDay
+3/9/2022,10,Normal Day,no,Wednesday,not holiday,weekDay
+3/10/2022,10,Normal Day,no,Thursday,not holiday,weekDay
+3/11/2022,10,Normal Day,no,Friday,not holiday,weekDay
+3/12/2022,11,Normal Day,no,Saturday,holiday,weekEnd
+3/13/2022,11,Normal Day,no,Sunday,holiday,weekEnd
+3/14/2022,11,Normal Day,no,Monday,not holiday,weekDay
+3/15/2022,11,Normal Day,no,Tuesday,not holiday,weekDay
+3/16/2022,11,Normal Day,no,Wednesday,not holiday,weekDay
+3/17/2022,11,Normal Day,no,Thursday,not holiday,weekDay
+3/18/2022,11,Normal Day,no,Friday,not holiday,weekDay
+3/19/2022,12,Normal Day,no,Saturday,holiday,weekEnd
+3/20/2022,12,Normal Day,no,Sunday,holiday,weekEnd
+3/21/2022,12,Normal Day,no,Monday,not holiday,weekDay
+3/22/2022,12,Normal Day,no,Tuesday,not holiday,weekDay
+3/23/2022,12,Normal Day,no,Wednesday,not holiday,weekDay
+3/24/2022,12,Normal Day,no,Thursday,not holiday,weekDay
+3/25/2022,12,Normal Day,no,Friday,not holiday,weekDay
+3/26/2022,13,Normal Day,no,Saturday,holiday,weekEnd
+3/27/2022,13,Normal Day,no,Sunday,holiday,weekEnd
+3/28/2022,13,Normal Day,no,Monday,not holiday,weekDay
+3/29/2022,13,Normal Day,no,Tuesday,not holiday,weekDay
+3/30/2022,13,Normal Day,no,Wednesday,not holiday,weekDay
+3/31/2022,13,Normal Day,no,Thursday,not holiday,weekDay
+4/1/2022,13,Normal Day,no,Friday,not holiday,weekDay
+4/2/2022,14,Normal Day,no,Saturday,holiday,weekEnd
+4/3/2022,14,Normal Day,no,Sunday,holiday,weekEnd
+4/4/2022,14,Normal Day,no,Monday,not holiday,weekDay
+4/5/2022,14,Normal Day,no,Tuesday,not holiday,weekDay
+4/6/2022,14,Chakri Memorial Day,no,Wednesday,holiday,Spacial
+4/7/2022,14,Normal Day,no,Thursday,not holiday,weekDay
+4/8/2022,14,Normal Day,no,Friday,not holiday,weekDay
+4/9/2022,15,Normal Day,no,Saturday,holiday,weekEnd
+4/10/2022,15,Normal Day,no,Sunday,holiday,weekEnd
+4/11/2022,15,Normal Day,no,Monday,not holiday,weekDay
+4/12/2022,15,Normal Day,no,Tuesday,not holiday,weekDay
+4/13/2022,15,Songkran Festival,yes,Wednesday,holiday,Spacial
+4/14/2022,15,Songkran Festival,yes,Thursday,holiday,Spacial
+4/15/2022,15,Songkran Festival,yes,Friday,holiday,Spacial
+4/16/2022,16,Normal Day,yes,Saturday,holiday,weekEnd
+4/17/2022,16,Normal Day,yes,Sunday,holiday,weekEnd
+4/18/2022,16,Normal Day,no,Monday,not holiday,weekDay
+4/19/2022,16,Normal Day,no,Tuesday,not holiday,weekDay
+4/20/2022,16,Normal Day,no,Wednesday,not holiday,weekDay
+4/21/2022,16,Normal Day,no,Thursday,not holiday,weekDay
+4/22/2022,16,Normal Day,no,Friday,not holiday,weekDay
+4/23/2022,17,Normal Day,no,Saturday,holiday,weekEnd
+4/24/2022,17,Normal Day,no,Sunday,holiday,weekEnd
+4/25/2022,17,Normal Day,no,Monday,not holiday,weekDay
+4/26/2022,17,Normal Day,no,Tuesday,not holiday,weekDay
+4/27/2022,17,Normal Day,no,Wednesday,not holiday,weekDay
+4/28/2022,17,Normal Day,no,Thursday,not holiday,weekDay
+4/29/2022,17,Normal Day,no,Friday,not holiday,weekDay
+4/30/2022,18,Normal Day,yes,Saturday,holiday,weekEnd
+5/1/2022,18,Labour Day,yes,Sunday,holiday,Spacial
+5/2/2022,18,Compensatory Holiday,yes,Monday,holiday,Spacial
+5/3/2022,18,Normal Day,no,Tuesday,not holiday,weekDay
+5/4/2022,18,Coronation Day,no,Wednesday,holiday,Spacial
+5/5/2022,18,Normal Day,no,Thursday,not holiday,weekDay
+5/6/2022,18,Normal Day,no,Friday,not holiday,weekDay
+5/7/2022,19,Normal Day,no,Saturday,holiday,weekEnd
+5/8/2022,19,Normal Day,no,Sunday,holiday,weekEnd
+5/9/2022,19,Normal Day,no,Monday,not holiday,weekDay
+5/10/2022,19,Normal Day,no,Tuesday,not holiday,weekDay
+5/11/2022,19,Normal Day,no,Wednesday,not holiday,weekDay
+5/12/2022,19,Normal Day,no,Thursday,not holiday,weekDay
+5/13/2022,19,Royal Ploughing Ceremony,yes,Friday,holiday,Spacial
+5/14/2022,20,Normal Day,yes,Saturday,holiday,weekEnd
+5/15/2022,20,Vesak Day,yes,Sunday,holiday,Spacial
+5/16/2022,20,Compensatory Holiday,yes,Monday,holiday,Spacial
+5/17/2022,20,Normal Day,no,Tuesday,not holiday,weekDay
+5/18/2022,20,Normal Day,no,Wednesday,not holiday,weekDay
+5/19/2022,20,Normal Day,no,Thursday,not holiday,weekDay
+5/20/2022,20,Normal Day,no,Friday,not holiday,weekDay
+5/21/2022,21,Normal Day,no,Saturday,holiday,weekEnd
+5/22/2022,21,Normal Day,no,Sunday,holiday,weekEnd
+5/23/2022,21,Normal Day,no,Monday,not holiday,weekDay
+5/24/2022,21,Normal Day,no,Tuesday,not holiday,weekDay
+5/25/2022,21,Normal Day,no,Wednesday,not holiday,weekDay
+5/26/2022,21,Normal Day,no,Thursday,not holiday,weekDay
+5/27/2022,21,Normal Day,no,Friday,not holiday,weekDay
+5/28/2022,22,Normal Day,no,Saturday,holiday,weekEnd
+5/29/2022,22,Normal Day,no,Sunday,holiday,weekEnd
+5/30/2022,22,Normal Day,no,Monday,not holiday,weekDay
+5/31/2022,22,Normal Day,no,Tuesday,not holiday,weekDay
+6/1/2022,22,Normal Day,no,Wednesday,not holiday,weekDay
+6/2/2022,22,Normal Day,no,Thursday,not holiday,weekDay
+6/3/2022,22,H.M. The Queen Suthida's Birthday,yes,Friday,holiday,Spacial
+6/4/2022,23,Normal Day,yes,Saturday,holiday,weekEnd
+6/5/2022,23,Normal Day,yes,Sunday,holiday,weekEnd
+6/6/2022,23,Normal Day,no,Monday,not holiday,weekDay
+6/7/2022,23,Normal Day,no,Tuesday,not holiday,weekDay
+6/8/2022,23,Normal Day,no,Wednesday,not holiday,weekDay
+6/9/2022,23,Normal Day,no,Thursday,not holiday,weekDay
+6/10/2022,23,Normal Day,no,Friday,not holiday,weekDay
+6/11/2022,24,Normal Day,no,Saturday,holiday,weekEnd
+6/12/2022,24,Normal Day,no,Sunday,holiday,weekEnd
+6/13/2022,24,Normal Day,no,Monday,not holiday,weekDay
+6/14/2022,24,Normal Day,no,Tuesday,not holiday,weekDay
+6/15/2022,24,Normal Day,no,Wednesday,not holiday,weekDay
+6/16/2022,24,Normal Day,no,Thursday,not holiday,weekDay
+6/17/2022,24,Normal Day,no,Friday,not holiday,weekDay
+6/18/2022,25,Normal Day,no,Saturday,holiday,weekEnd
+6/19/2022,25,Normal Day,no,Sunday,holiday,weekEnd
+6/20/2022,25,Normal Day,no,Monday,not holiday,weekDay
+6/21/2022,25,Normal Day,no,Tuesday,not holiday,weekDay
+6/22/2022,25,Normal Day,no,Wednesday,not holiday,weekDay
+6/23/2022,25,Normal Day,no,Thursday,not holiday,weekDay
+6/24/2022,25,Normal Day,no,Friday,not holiday,weekDay
+6/25/2022,26,Normal Day,no,Saturday,holiday,weekEnd
+6/26/2022,26,Normal Day,no,Sunday,holiday,weekEnd
+6/27/2022,26,Normal Day,no,Monday,not holiday,weekDay
+6/28/2022,26,Normal Day,no,Tuesday,not holiday,weekDay
+6/29/2022,26,Normal Day,no,Wednesday,not holiday,weekDay
+6/30/2022,26,Normal Day,no,Thursday,not holiday,weekDay
+7/1/2022,26,Normal Day,no,Friday,not holiday,weekDay
+7/2/2022,27,Normal Day,no,Saturday,holiday,weekEnd
+7/3/2022,27,Normal Day,no,Sunday,holiday,weekEnd
+7/4/2022,27,Normal Day,no,Monday,not holiday,weekDay
+7/5/2022,27,Normal Day,no,Tuesday,not holiday,weekDay
+7/6/2022,27,Normal Day,no,Wednesday,not holiday,weekDay
+7/7/2022,27,Normal Day,no,Thursday,not holiday,weekDay
+7/8/2022,27,Normal Day,no,Friday,not holiday,weekDay
+7/9/2022,28,Normal Day,no,Saturday,holiday,weekEnd
+7/10/2022,28,Normal Day,no,Sunday,holiday,weekEnd
+7/11/2022,28,Normal Day,no,Monday,not holiday,weekDay
+7/12/2022,28,Normal Day,no,Tuesday,not holiday,weekDay
+7/13/2022,28,Asalha Puja Day,yes,Wednesday,holiday,Spacial
+7/14/2022,28,Buddhist Lent Day,yes,Thursday,holiday,Spacial
+7/15/2022,28,Special Holidays,yes,Friday,holiday,Spacial
+7/16/2022,29,Normal Day,yes,Saturday,holiday,weekEnd
+7/17/2022,29,Normal Day,yes,Sunday,holiday,weekEnd
+7/18/2022,29,Normal Day,no,Monday,not holiday,weekDay
+7/19/2022,29,Normal Day,no,Tuesday,not holiday,weekDay
+7/20/2022,29,Normal Day,no,Wednesday,not holiday,weekDay
+7/21/2022,29,Normal Day,no,Thursday,not holiday,weekDay
+7/22/2022,29,Normal Day,no,Friday,not holiday,weekDay
+7/23/2022,30,Normal Day,no,Saturday,holiday,weekEnd
+7/24/2022,30,Normal Day,no,Sunday,holiday,weekEnd
+7/25/2022,30,Normal Day,no,Monday,not holiday,weekDay
+7/26/2022,30,Normal Day,no,Tuesday,not holiday,weekDay
+7/27/2022,30,Normal Day,no,Wednesday,not holiday,weekDay
+7/28/2022,30,H.M.King Maha Vajiralongkorn's Birthday,no,Thursday,holiday,Spacial
+7/29/2022,30,Special Holidays,no,Friday,holiday,Spacial
+7/30/2022,31,Normal Day,no,Saturday,holiday,weekEnd
+7/31/2022,31,Normal Day,no,Sunday,holiday,weekEnd
+8/1/2022,31,Normal Day,no,Monday,not holiday,weekDay
+8/2/2022,31,Normal Day,no,Tuesday,not holiday,weekDay
+8/3/2022,31,Normal Day,no,Wednesday,not holiday,weekDay
+8/4/2022,31,Normal Day,no,Thursday,not holiday,weekDay
+8/5/2022,31,Normal Day,no,Friday,not holiday,weekDay
+8/6/2022,32,Normal Day,no,Saturday,holiday,weekEnd
+8/7/2022,32,Normal Day,no,Sunday,holiday,weekEnd
+8/8/2022,32,Normal Day,no,Monday,not holiday,weekDay
+8/9/2022,32,Normal Day,no,Tuesday,not holiday,weekDay
+8/10/2022,32,Normal Day,no,Wednesday,not holiday,weekDay
+8/11/2022,32,Normal Day,no,Thursday,not holiday,weekDay
+8/12/2022,32,Mother's Day,yes,Friday,holiday,Spacial
+8/13/2022,33,Normal Day,yes,Saturday,holiday,weekEnd
+8/14/2022,33,Normal Day,yes,Sunday,holiday,weekEnd
+8/15/2022,33,Normal Day,no,Monday,not holiday,weekDay
+8/16/2022,33,Normal Day,no,Tuesday,not holiday,weekDay
+8/17/2022,33,Normal Day,no,Wednesday,not holiday,weekDay
+8/18/2022,33,Normal Day,no,Thursday,not holiday,weekDay
+8/19/2022,33,Normal Day,no,Friday,not holiday,weekDay
+8/20/2022,34,Normal Day,no,Saturday,holiday,weekEnd
+8/21/2022,34,Normal Day,no,Sunday,holiday,weekEnd
+8/22/2022,34,Normal Day,no,Monday,not holiday,weekDay
+8/23/2022,34,Normal Day,no,Tuesday,not holiday,weekDay
+8/24/2022,34,Normal Day,no,Wednesday,not holiday,weekDay
+8/25/2022,34,Normal Day,no,Thursday,not holiday,weekDay
+8/26/2022,34,Normal Day,no,Friday,not holiday,weekDay
+8/27/2022,35,Normal Day,no,Saturday,holiday,weekEnd
+8/28/2022,35,Normal Day,no,Sunday,holiday,weekEnd
+8/29/2022,35,Normal Day,no,Monday,not holiday,weekDay
+8/30/2022,35,Normal Day,no,Tuesday,not holiday,weekDay
+8/31/2022,35,Normal Day,no,Wednesday,not holiday,weekDay
+9/1/2022,35,Normal Day,no,Thursday,not holiday,weekDay
+9/2/2022,35,Normal Day,no,Friday,not holiday,weekDay
+9/3/2022,36,Normal Day,no,Saturday,holiday,weekEnd
+9/4/2022,36,Normal Day,no,Sunday,holiday,weekEnd
+9/5/2022,36,Normal Day,no,Monday,not holiday,weekDay
+9/6/2022,36,Normal Day,no,Tuesday,not holiday,weekDay
+9/7/2022,36,Normal Day,no,Wednesday,not holiday,weekDay
+9/8/2022,36,Normal Day,no,Thursday,not holiday,weekDay
+9/9/2022,36,Normal Day,no,Friday,not holiday,weekDay
+9/10/2022,37,Normal Day,no,Saturday,holiday,weekEnd
+9/11/2022,37,Normal Day,no,Sunday,holiday,weekEnd
+9/12/2022,37,Normal Day,no,Monday,not holiday,weekDay
+9/13/2022,37,Normal Day,no,Tuesday,not holiday,weekDay
+9/14/2022,37,Normal Day,no,Wednesday,not holiday,weekDay
+9/15/2022,37,Normal Day,no,Thursday,not holiday,weekDay
+9/16/2022,37,Normal Day,no,Friday,not holiday,weekDay
+9/17/2022,38,Normal Day,no,Saturday,holiday,weekEnd
+9/18/2022,38,Normal Day,no,Sunday,holiday,weekEnd
+9/19/2022,38,Normal Day,no,Monday,not holiday,weekDay
+9/20/2022,38,Normal Day,no,Tuesday,not holiday,weekDay
+9/21/2022,38,Normal Day,no,Wednesday,not holiday,weekDay
+9/22/2022,38,Normal Day,no,Thursday,not holiday,weekDay
+9/23/2022,38,Normal Day,no,Friday,not holiday,weekDay
+9/24/2022,39,Normal Day,no,Saturday,holiday,weekEnd
+9/25/2022,39,Normal Day,no,Sunday,holiday,weekEnd
+9/26/2022,39,Normal Day,no,Monday,not holiday,weekDay
+9/27/2022,39,Normal Day,no,Tuesday,not holiday,weekDay
+9/28/2022,39,Normal Day,no,Wednesday,not holiday,weekDay
+9/29/2022,39,Normal Day,no,Thursday,not holiday,weekDay
+9/30/2022,39,Normal Day,no,Friday,not holiday,weekDay
+10/1/2022,40,Normal Day,no,Saturday,holiday,weekEnd
+10/2/2022,40,Normal Day,no,Sunday,holiday,weekEnd
+10/3/2022,40,Normal Day,no,Monday,not holiday,weekDay
+10/4/2022,40,Normal Day,no,Tuesday,not holiday,weekDay
+10/5/2022,40,Normal Day,no,Wednesday,not holiday,weekDay
+10/6/2022,40,Normal Day,no,Thursday,not holiday,weekDay
+10/7/2022,40,Normal Day,no,Friday,not holiday,weekDay
+10/8/2022,41,Normal Day,no,Saturday,holiday,weekEnd
+10/9/2022,41,Normal Day,no,Sunday,holiday,weekEnd
+10/10/2022,41,Normal Day,no,Monday,not holiday,weekDay
+10/11/2022,41,Normal Day,no,Tuesday,not holiday,weekDay
+10/12/2022,41,Normal Day,no,Wednesday,not holiday,weekDay
+10/13/2022,41,H.M. King Bhumibol Adulyadej Memorial Day,yes,Thursday,holiday,Spacial
+10/14/2022,41,Special Holidays,yes,Friday,holiday,Spacial
+10/15/2022,42,Normal Day,yes,Saturday,holiday,weekEnd
+10/16/2022,42,Normal Day,yes,Sunday,holiday,weekEnd
+10/17/2022,42,Normal Day,no,Monday,not holiday,weekDay
+10/18/2022,42,Normal Day,no,Tuesday,not holiday,weekDay
+10/19/2022,42,Normal Day,no,Wednesday,not holiday,weekDay
+10/20/2022,42,Normal Day,no,Thursday,not holiday,weekDay
+10/21/2022,42,Normal Day,no,Friday,not holiday,weekDay
+10/22/2022,43,Normal Day,yes,Saturday,holiday,weekEnd
+10/23/2022,43,Chulalongkorn Day,yes,Sunday,holiday,Spacial
+10/24/2022,43,Compensatory Holiday,yes,Monday,holiday,Spacial
+10/25/2022,43,Normal Day,no,Tuesday,not holiday,weekDay
+10/26/2022,43,Normal Day,no,Wednesday,not holiday,weekDay
+10/27/2022,43,Normal Day,no,Thursday,not holiday,weekDay
+10/28/2022,43,Normal Day,no,Friday,not holiday,weekDay
+10/29/2022,44,Normal Day,no,Saturday,holiday,weekEnd
+10/30/2022,44,Normal Day,no,Sunday,holiday,weekEnd
+10/31/2022,44,Normal Day,no,Monday,not holiday,weekDay
+11/1/2022,44,Normal Day,no,Tuesday,not holiday,weekDay
+11/2/2022,44,Normal Day,no,Wednesday,not holiday,weekDay
+11/3/2022,44,Normal Day,no,Thursday,not holiday,weekDay
+11/4/2022,44,Normal Day,no,Friday,not holiday,weekDay
+11/5/2022,45,Normal Day,no,Saturday,holiday,weekEnd
+11/6/2022,45,Normal Day,no,Sunday,holiday,weekEnd
+11/7/2022,45,Normal Day,no,Monday,not holiday,weekDay
+11/8/2022,45,Normal Day,no,Tuesday,not holiday,weekDay
+11/9/2022,45,Normal Day,no,Wednesday,not holiday,weekDay
+11/10/2022,45,Normal Day,no,Thursday,not holiday,weekDay
+11/11/2022,45,Normal Day,no,Friday,not holiday,weekDay
+11/12/2022,46,Normal Day,no,Saturday,holiday,weekEnd
+11/13/2022,46,Normal Day,no,Sunday,holiday,weekEnd
+11/14/2022,46,Normal Day,no,Monday,not holiday,weekDay
+11/15/2022,46,Normal Day,no,Tuesday,not holiday,weekDay
+11/16/2022,46,Normal Day,no,Wednesday,not holiday,weekDay
+11/17/2022,46,Normal Day,no,Thursday,not holiday,weekDay
+11/18/2022,46,Normal Day,no,Friday,not holiday,weekDay
+11/19/2022,47,Normal Day,no,Saturday,holiday,weekEnd
+11/20/2022,47,Normal Day,no,Sunday,holiday,weekEnd
+11/21/2022,47,Normal Day,no,Monday,not holiday,weekDay
+11/22/2022,47,Normal Day,no,Tuesday,not holiday,weekDay
+11/23/2022,47,Normal Day,no,Wednesday,not holiday,weekDay
+11/24/2022,47,Normal Day,no,Thursday,not holiday,weekDay
+11/25/2022,47,Normal Day,no,Friday,not holiday,weekDay
+11/26/2022,48,Normal Day,no,Saturday,holiday,weekEnd
+11/27/2022,48,Normal Day,no,Sunday,holiday,weekEnd
+11/28/2022,48,Normal Day,no,Monday,not holiday,weekDay
+11/29/2022,48,Normal Day,no,Tuesday,not holiday,weekDay
+11/30/2022,48,Normal Day,no,Wednesday,not holiday,weekDay
+12/1/2022,48,Normal Day,no,Thursday,not holiday,weekDay
+12/2/2022,48,Normal Day,no,Friday,not holiday,weekDay
+12/3/2022,49,Normal Day,yes,Saturday,holiday,weekEnd
+12/4/2022,49,Normal Day,yes,Sunday,holiday,weekEnd
+12/5/2022,49,Father's Day,yes,Monday,holiday,Spacial
+12/6/2022,49,Normal Day,no,Tuesday,not holiday,weekDay
+12/7/2022,49,Normal Day,no,Wednesday,not holiday,weekDay
+12/8/2022,49,Normal Day,no,Thursday,not holiday,weekDay
+12/9/2022,49,Normal Day,no,Friday,not holiday,weekDay
+12/10/2022,50,Constitution Day,yes,Saturday,holiday,Spacial
+12/11/2022,50,Normal Day,yes,Sunday,holiday,weekEnd
+12/12/2022,50,Compensatory Holiday,yes,Monday,holiday,Spacial
+12/13/2022,50,Normal Day,no,Tuesday,not holiday,weekDay
+12/14/2022,50,Normal Day,no,Wednesday,not holiday,weekDay
+12/15/2022,50,Normal Day,no,Thursday,not holiday,weekDay
+12/16/2022,50,Normal Day,no,Friday,not holiday,weekDay
+12/17/2022,51,Normal Day,no,Saturday,holiday,weekEnd
+12/18/2022,51,Normal Day,no,Sunday,holiday,weekEnd
+12/19/2022,51,Normal Day,no,Monday,not holiday,weekDay
+12/20/2022,51,Normal Day,no,Tuesday,not holiday,weekDay
+12/21/2022,51,Normal Day,no,Wednesday,not holiday,weekDay
+12/22/2022,51,Normal Day,no,Thursday,not holiday,weekDay
+12/23/2022,51,Normal Day,no,Friday,not holiday,weekDay
+12/24/2022,52,Normal Day,no,Saturday,holiday,weekEnd
+12/25/2022,52,Normal Day,no,Sunday,holiday,weekEnd
+12/26/2022,52,Normal Day,no,Monday,not holiday,weekDay
+12/27/2022,52,Normal Day,no,Tuesday,not holiday,weekDay
+12/28/2022,52,Normal Day,no,Wednesday,not holiday,weekDay
+12/29/2022,52,Normal Day,no,Thursday,not holiday,weekDay
+12/30/2022,52,Special Holidays,yes,Friday,holiday,Spacial
+12/31/2022,53,New Year's Eve,yes,Saturday,holiday,Spacial
+1/1/2023,1,New Year's Day,yes,Sunday,holiday,Spacial
+1/2/2023,1,Compensatory Holiday,yes,Monday,holiday,Spacial
+1/3/2023,1,Normal Day,no,Tuesday,not holiday,weekDay
+1/4/2023,1,Normal Day,no,Wednesday,not holiday,weekDay
+1/5/2023,1,Normal Day,no,Thursday,not holiday,weekDay
+1/6/2023,1,Normal Day,no,Friday,not holiday,weekDay
+1/7/2023,1,Normal Day,no,Saturday,holiday,weekEnd
+1/8/2023,2,Normal Day,no,Sunday,holiday,weekEnd
+1/9/2023,2,Normal Day,no,Monday,not holiday,weekDay
+1/10/2023,2,Normal Day,no,Tuesday,not holiday,weekDay
+1/11/2023,2,Normal Day,no,Wednesday,not holiday,weekDay
+1/12/2023,2,Normal Day,no,Thursday,not holiday,weekDay
+1/13/2023,2,Normal Day,no,Friday,not holiday,weekDay
+1/14/2023,2,Normal Day,no,Saturday,holiday,weekEnd
+1/15/2023,3,Normal Day,no,Sunday,holiday,weekEnd
+1/16/2023,3,Normal Day,no,Monday,not holiday,weekDay
+1/17/2023,3,Normal Day,no,Tuesday,not holiday,weekDay
+1/18/2023,3,Normal Day,no,Wednesday,not holiday,weekDay
+1/19/2023,3,Normal Day,no,Thursday,not holiday,weekDay
+1/20/2023,3,Normal Day,no,Friday,not holiday,weekDay
+1/21/2023,3,Normal Day,no,Saturday,holiday,weekEnd
+1/22/2023,4,Normal Day,no,Sunday,holiday,weekEnd
+1/23/2023,4,Normal Day,no,Monday,not holiday,weekDay
+1/24/2023,4,Normal Day,no,Tuesday,not holiday,weekDay
+1/25/2023,4,Normal Day,no,Wednesday,not holiday,weekDay
+1/26/2023,4,Normal Day,no,Thursday,not holiday,weekDay
+1/27/2023,4,Normal Day,no,Friday,not holiday,weekDay
+1/28/2023,4,Normal Day,no,Saturday,holiday,weekEnd
+1/29/2023,5,Normal Day,no,Sunday,holiday,weekEnd
+1/30/2023,5,Normal Day,no,Monday,not holiday,weekDay
+1/31/2023,5,Normal Day,no,Tuesday,not holiday,weekDay
+2/1/2023,5,Normal Day,no,Wednesday,not holiday,weekDay
+2/2/2023,5,Normal Day,no,Thursday,not holiday,weekDay
+2/3/2023,5,Normal Day,no,Friday,not holiday,weekDay
+2/4/2023,5,Normal Day,no,Saturday,holiday,weekEnd
+2/5/2023,6,Normal Day,no,Sunday,holiday,weekEnd
+2/6/2023,6,Normal Day,no,Monday,not holiday,weekDay
+2/7/2023,6,Normal Day,no,Tuesday,not holiday,weekDay
+2/8/2023,6,Normal Day,no,Wednesday,not holiday,weekDay
+2/9/2023,6,Normal Day,no,Thursday,not holiday,weekDay
+2/10/2023,6,Normal Day,no,Friday,not holiday,weekDay
+2/11/2023,6,Normal Day,no,Saturday,holiday,weekEnd
+2/12/2023,7,Normal Day,no,Sunday,holiday,weekEnd
+2/13/2023,7,Normal Day,no,Monday,not holiday,weekDay
+2/14/2023,7,Normal Day,no,Tuesday,not holiday,weekDay
+2/15/2023,7,Normal Day,no,Wednesday,not holiday,weekDay
+2/16/2023,7,Normal Day,no,Thursday,not holiday,weekDay
+2/17/2023,7,Normal Day,no,Friday,not holiday,weekDay
+2/18/2023,7,Normal Day,no,Saturday,holiday,weekEnd
+2/19/2023,8,Normal Day,no,Sunday,holiday,weekEnd
+2/20/2023,8,Normal Day,no,Monday,not holiday,weekDay
+2/21/2023,8,Normal Day,no,Tuesday,not holiday,weekDay
+2/22/2023,8,Normal Day,no,Wednesday,not holiday,weekDay
+2/23/2023,8,Normal Day,no,Thursday,not holiday,weekDay
+2/24/2023,8,Normal Day,no,Friday,not holiday,weekDay
+2/25/2023,8,Normal Day,no,Saturday,holiday,weekEnd
+2/26/2023,9,Normal Day,no,Sunday,holiday,weekEnd
+2/27/2023,9,Normal Day,no,Monday,not holiday,weekDay
+2/28/2023,9,Normal Day,no,Tuesday,not holiday,weekDay
+3/1/2023,9,Normal Day,no,Wednesday,not holiday,weekDay
+3/2/2023,9,Normal Day,no,Thursday,not holiday,weekDay
+3/3/2023,9,Normal Day,no,Friday,not holiday,weekDay
+3/4/2023,9,Normal Day,yes,Saturday,holiday,weekEnd
+3/5/2023,10,Normal Day,yes,Sunday,holiday,weekEnd
+3/6/2023,10,Makha Bucha Day,yes,Monday,holiday,Spacial
+3/7/2023,10,Normal Day,no,Tuesday,not holiday,weekDay
+3/8/2023,10,Normal Day,no,Wednesday,not holiday,weekDay
+3/9/2023,10,Normal Day,no,Thursday,not holiday,weekDay
+3/10/2023,10,Normal Day,no,Friday,not holiday,weekDay
+3/11/2023,10,Normal Day,no,Saturday,holiday,weekEnd
+3/12/2023,11,Normal Day,no,Sunday,holiday,weekEnd
+3/13/2023,11,Normal Day,no,Monday,not holiday,weekDay
+3/14/2023,11,Normal Day,no,Tuesday,not holiday,weekDay
+3/15/2023,11,Normal Day,no,Wednesday,not holiday,weekDay
+3/16/2023,11,Normal Day,no,Thursday,not holiday,weekDay
+3/17/2023,11,Normal Day,no,Friday,not holiday,weekDay
+3/18/2023,11,Normal Day,no,Saturday,holiday,weekEnd
+3/19/2023,12,Normal Day,no,Sunday,holiday,weekEnd
+3/20/2023,12,Normal Day,no,Monday,not holiday,weekDay
+3/21/2023,12,Normal Day,no,Tuesday,not holiday,weekDay
+3/22/2023,12,Normal Day,no,Wednesday,not holiday,weekDay
+3/23/2023,12,Normal Day,no,Thursday,not holiday,weekDay
+3/24/2023,12,Normal Day,no,Friday,not holiday,weekDay
+3/25/2023,12,Normal Day,no,Saturday,holiday,weekEnd
+3/26/2023,13,Normal Day,no,Sunday,holiday,weekEnd
+3/27/2023,13,Normal Day,no,Monday,not holiday,weekDay
+3/28/2023,13,Normal Day,no,Tuesday,not holiday,weekDay
+3/29/2023,13,Normal Day,no,Wednesday,not holiday,weekDay
+3/30/2023,13,Normal Day,no,Thursday,not holiday,weekDay
+3/31/2023,13,Normal Day,no,Friday,not holiday,weekDay
+4/1/2023,13,Normal Day,no,Saturday,holiday,weekEnd
+4/2/2023,14,Normal Day,no,Sunday,holiday,weekEnd
+4/3/2023,14,Normal Day,no,Monday,not holiday,weekDay
+4/4/2023,14,Normal Day,no,Tuesday,not holiday,weekDay
+4/5/2023,14,Normal Day,no,Wednesday,not holiday,weekDay
+4/6/2023,14,Chakri Memorial Day,no,Thursday,holiday,Spacial
+4/7/2023,14,Normal Day,no,Friday,not holiday,weekDay
+4/8/2023,14,Normal Day,no,Saturday,holiday,weekEnd
+4/9/2023,15,Normal Day,no,Sunday,holiday,weekEnd
+4/10/2023,15,Normal Day,no,Monday,not holiday,weekDay
+4/11/2023,15,Normal Day,no,Tuesday,not holiday,weekDay
+4/12/2023,15,Normal Day,no,Wednesday,not holiday,weekDay
+4/13/2023,15,Songkran Festival,yes,Thursday,holiday,Spacial
+4/14/2023,15,Songkran Festival,yes,Friday,holiday,Spacial
+4/15/2023,15,Songkran Festival,yes,Saturday,holiday,Spacial
+4/16/2023,16,Normal Day,yes,Sunday,holiday,weekEnd
+4/17/2023,16,Compensatory Holiday,no,Monday,holiday,Spacial
+4/18/2023,16,Normal Day,no,Tuesday,not holiday,weekDay
+4/19/2023,16,Normal Day,no,Wednesday,not holiday,weekDay
+4/20/2023,16,Normal Day,no,Thursday,not holiday,weekDay
+4/21/2023,16,Normal Day,no,Friday,not holiday,weekDay
+4/22/2023,16,Normal Day,no,Saturday,holiday,weekEnd
+4/23/2023,17,Normal Day,no,Sunday,holiday,weekEnd
+4/24/2023,17,Normal Day,no,Monday,not holiday,weekDay
+4/25/2023,17,Normal Day,no,Tuesday,not holiday,weekDay
+4/26/2023,17,Normal Day,no,Wednesday,not holiday,weekDay
+4/27/2023,17,Normal Day,no,Thursday,not holiday,weekDay
+4/28/2023,17,Normal Day,no,Friday,not holiday,weekDay
+4/29/2023,17,Normal Day,yes,Saturday,holiday,weekEnd
+4/30/2023,18,Normal Day,yes,Sunday,holiday,weekEnd
+5/1/2023,18,Labour Day,yes,Monday,holiday,Spacial
+5/2/2023,18,Normal Day,no,Tuesday,not holiday,weekDay
+5/3/2023,18,Normal Day,no,Wednesday,not holiday,weekDay
+5/4/2023,18,Coronation Day,no,Thursday,holiday,Spacial
+5/5/2023,18,Special Holidays,no,Friday,holiday,Spacial
+5/6/2023,18,Normal Day,no,Saturday,holiday,weekEnd
+5/7/2023,19,Normal Day,no,Sunday,holiday,weekEnd
+5/8/2023,19,Normal Day,no,Monday,not holiday,weekDay
+5/9/2023,19,Normal Day,no,Tuesday,not holiday,weekDay
+5/10/2023,19,Normal Day,no,Wednesday,not holiday,weekDay
+5/11/2023,19,Normal Day,no,Thursday,not holiday,weekDay
+5/12/2023,19,Normal Day,no,Friday,not holiday,weekDay
+5/13/2023,19,Normal Day,no,Saturday,holiday,weekEnd
+5/14/2023,20,Normal Day,no,Sunday,holiday,weekEnd
+5/15/2023,20,Normal Day,no,Monday,not holiday,weekDay
+5/16/2023,20,Normal Day,no,Tuesday,not holiday,weekDay
+5/17/2023,20,Royal Ploughing Ceremony,no,Wednesday,holiday,Spacial
+5/18/2023,20,Normal Day,no,Thursday,not holiday,weekDay
+5/19/2023,20,Normal Day,no,Friday,not holiday,weekDay
+5/20/2023,20,Normal Day,no,Saturday,holiday,weekEnd
+5/21/2023,21,Normal Day,no,Sunday,holiday,weekEnd
+5/22/2023,21,Normal Day,no,Monday,not holiday,weekDay
+5/23/2023,21,Normal Day,no,Tuesday,not holiday,weekDay
+5/24/2023,21,Normal Day,no,Wednesday,not holiday,weekDay
+5/25/2023,21,Normal Day,no,Thursday,not holiday,weekDay
+5/26/2023,21,Normal Day,no,Friday,not holiday,weekDay
+5/27/2023,21,Normal Day,no,Saturday,holiday,weekEnd
+5/28/2023,22,Normal Day,no,Sunday,holiday,weekEnd
+5/29/2023,22,Normal Day,no,Monday,not holiday,weekDay
+5/30/2023,22,Normal Day,no,Tuesday,not holiday,weekDay
+5/31/2023,22,Normal Day,no,Wednesday,not holiday,weekDay
+6/1/2023,22,Normal Day,no,Thursday,not holiday,weekDay
+6/2/2023,22,Normal Day,no,Friday,not holiday,weekDay
+6/3/2023,22,H.M. The Queen Suthida's Birthday,yes,Saturday,holiday,Spacial
+6/4/2023,23,Normal Day,yes,Sunday,holiday,weekEnd
+6/5/2023,23,Vesak Day,yes,Monday,holiday,Spacial
+6/6/2023,23,Normal Day,no,Tuesday,not holiday,weekDay
+6/7/2023,23,Normal Day,no,Wednesday,not holiday,weekDay
+6/8/2023,23,Normal Day,no,Thursday,not holiday,weekDay
+6/9/2023,23,Normal Day,no,Friday,not holiday,weekDay
+6/10/2023,23,Normal Day,no,Saturday,holiday,weekEnd
+6/11/2023,24,Normal Day,no,Sunday,holiday,weekEnd
+6/12/2023,24,Normal Day,no,Monday,not holiday,weekDay
+6/13/2023,24,Normal Day,no,Tuesday,not holiday,weekDay
+6/14/2023,24,Normal Day,no,Wednesday,not holiday,weekDay
+6/15/2023,24,Normal Day,no,Thursday,not holiday,weekDay
+6/16/2023,24,Normal Day,no,Friday,not holiday,weekDay
+6/17/2023,24,Normal Day,no,Saturday,holiday,weekEnd
+6/18/2023,25,Normal Day,no,Sunday,holiday,weekEnd
+6/19/2023,25,Normal Day,no,Monday,not holiday,weekDay
+6/20/2023,25,Normal Day,no,Tuesday,not holiday,weekDay
+6/21/2023,25,Normal Day,no,Wednesday,not holiday,weekDay
+6/22/2023,25,Normal Day,no,Thursday,not holiday,weekDay
+6/23/2023,25,Normal Day,no,Friday,not holiday,weekDay
+6/24/2023,25,Normal Day,no,Saturday,holiday,weekEnd
+6/25/2023,26,Normal Day,no,Sunday,holiday,weekEnd
+6/26/2023,26,Normal Day,no,Monday,not holiday,weekDay
+6/27/2023,26,Normal Day,no,Tuesday,not holiday,weekDay
+6/28/2023,26,Normal Day,no,Wednesday,not holiday,weekDay
+6/29/2023,26,Normal Day,no,Thursday,not holiday,weekDay
+6/30/2023,26,Normal Day,no,Friday,not holiday,weekDay
+7/1/2023,26,Normal Day,no,Saturday,holiday,weekEnd
+7/2/2023,27,Normal Day,no,Sunday,holiday,weekEnd
+7/3/2023,27,Normal Day,no,Monday,not holiday,weekDay
+7/4/2023,27,Normal Day,no,Tuesday,not holiday,weekDay
+7/5/2023,27,Normal Day,no,Wednesday,not holiday,weekDay
+7/6/2023,27,Normal Day,no,Thursday,not holiday,weekDay
+7/7/2023,27,Normal Day,no,Friday,not holiday,weekDay
+7/8/2023,27,Normal Day,no,Saturday,holiday,weekEnd
+7/9/2023,28,Normal Day,no,Sunday,holiday,weekEnd
+7/10/2023,28,Normal Day,no,Monday,not holiday,weekDay
+7/11/2023,28,Normal Day,no,Tuesday,not holiday,weekDay
+7/12/2023,28,Normal Day,no,Wednesday,not holiday,weekDay
+7/13/2023,28,Normal Day,no,Thursday,not holiday,weekDay
+7/14/2023,28,Normal Day,no,Friday,not holiday,weekDay
+7/15/2023,28,Normal Day,no,Saturday,holiday,weekEnd
+7/16/2023,29,Normal Day,no,Sunday,holiday,weekEnd
+7/17/2023,29,Normal Day,no,Monday,not holiday,weekDay
+7/18/2023,29,Normal Day,no,Tuesday,not holiday,weekDay
+7/19/2023,29,Normal Day,no,Wednesday,not holiday,weekDay
+7/20/2023,29,Normal Day,no,Thursday,not holiday,weekDay
+7/21/2023,29,Normal Day,no,Friday,not holiday,weekDay
+7/22/2023,29,Normal Day,no,Saturday,holiday,weekEnd
+7/23/2023,30,Normal Day,no,Sunday,holiday,weekEnd
+7/24/2023,30,Normal Day,no,Monday,not holiday,weekDay
+7/25/2023,30,Normal Day,no,Tuesday,not holiday,weekDay
+7/26/2023,30,Normal Day,no,Wednesday,not holiday,weekDay
+7/27/2023,30,Normal Day,no,Thursday,not holiday,weekDay
+7/28/2023,30,H.M.King Maha Vajiralongkorn's Birthday,yes,Friday,holiday,Spacial
+7/29/2023,30,Normal Day,yes,Saturday,holiday,weekEnd
+7/30/2023,31,Normal Day,yes,Sunday,holiday,weekEnd
+7/31/2023,31,Special Holidays,no,Monday,holiday,Spacial
+8/1/2023,31,Asalha Puja Day,yes,Tuesday,holiday,Spacial
+8/2/2023,31,Buddhist Lent Day,yes,Wednesday,holiday,Spacial
+8/3/2023,31,Normal Day,no,Thursday,not holiday,weekDay
+8/4/2023,31,Normal Day,no,Friday,not holiday,weekDay
+8/5/2023,31,Normal Day,no,Saturday,holiday,weekEnd
+8/6/2023,32,Normal Day,no,Sunday,holiday,weekEnd
+8/7/2023,32,Normal Day,no,Monday,not holiday,weekDay
+8/8/2023,32,Normal Day,no,Tuesday,not holiday,weekDay
+8/9/2023,32,Normal Day,no,Wednesday,not holiday,weekDay
+8/10/2023,32,Normal Day,no,Thursday,not holiday,weekDay
+8/11/2023,32,Normal Day,no,Friday,not holiday,weekDay
+8/12/2023,32,Mother's Day,yes,Saturday,holiday,Spacial
+8/13/2023,33,Normal Day,yes,Sunday,holiday,weekEnd
+8/14/2023,33,Compensatory Holiday,yes,Monday,holiday,Spacial
+8/15/2023,33,Normal Day,no,Tuesday,not holiday,weekDay
+8/16/2023,33,Normal Day,no,Wednesday,not holiday,weekDay
+8/17/2023,33,Normal Day,no,Thursday,not holiday,weekDay
+8/18/2023,33,Normal Day,no,Friday,not holiday,weekDay
+8/19/2023,33,Normal Day,no,Saturday,holiday,weekEnd
+8/20/2023,34,Normal Day,no,Sunday,holiday,weekEnd
+8/21/2023,34,Normal Day,no,Monday,not holiday,weekDay
+8/22/2023,34,Normal Day,no,Tuesday,not holiday,weekDay
+8/23/2023,34,Normal Day,no,Wednesday,not holiday,weekDay
+8/24/2023,34,Normal Day,no,Thursday,not holiday,weekDay
+8/25/2023,34,Normal Day,no,Friday,not holiday,weekDay
+8/26/2023,34,Normal Day,no,Saturday,holiday,weekEnd
+8/27/2023,35,Normal Day,no,Sunday,holiday,weekEnd
+8/28/2023,35,Normal Day,no,Monday,not holiday,weekDay
+8/29/2023,35,Normal Day,no,Tuesday,not holiday,weekDay
+8/30/2023,35,Normal Day,no,Wednesday,not holiday,weekDay
+8/31/2023,35,Normal Day,no,Thursday,not holiday,weekDay
+9/1/2023,35,Normal Day,no,Friday,not holiday,weekDay
+9/2/2023,35,Normal Day,no,Saturday,holiday,weekEnd
+9/3/2023,36,Normal Day,no,Sunday,holiday,weekEnd
+9/4/2023,36,Normal Day,no,Monday,not holiday,weekDay
+9/5/2023,36,Normal Day,no,Tuesday,not holiday,weekDay
+9/6/2023,36,Normal Day,no,Wednesday,not holiday,weekDay
+9/7/2023,36,Normal Day,no,Thursday,not holiday,weekDay
+9/8/2023,36,Normal Day,no,Friday,not holiday,weekDay
+9/9/2023,36,Normal Day,no,Saturday,holiday,weekEnd
+9/10/2023,37,Normal Day,no,Sunday,holiday,weekEnd
+9/11/2023,37,Normal Day,no,Monday,not holiday,weekDay
+9/12/2023,37,Normal Day,no,Tuesday,not holiday,weekDay
+9/13/2023,37,Normal Day,no,Wednesday,not holiday,weekDay
+9/14/2023,37,Normal Day,no,Thursday,not holiday,weekDay
+9/15/2023,37,Normal Day,no,Friday,not holiday,weekDay
+9/16/2023,37,Normal Day,no,Saturday,holiday,weekEnd
+9/17/2023,38,Normal Day,no,Sunday,holiday,weekEnd
+9/18/2023,38,Normal Day,no,Monday,not holiday,weekDay
+9/19/2023,38,Normal Day,no,Tuesday,not holiday,weekDay
+9/20/2023,38,Normal Day,no,Wednesday,not holiday,weekDay
+9/21/2023,38,Normal Day,no,Thursday,not holiday,weekDay
+9/22/2023,38,Normal Day,no,Friday,not holiday,weekDay
+9/23/2023,38,Normal Day,no,Saturday,holiday,weekEnd
+9/24/2023,39,Normal Day,no,Sunday,holiday,weekEnd
+9/25/2023,39,Normal Day,no,Monday,not holiday,weekDay
+9/26/2023,39,Normal Day,no,Tuesday,not holiday,weekDay
+9/27/2023,39,Normal Day,no,Wednesday,not holiday,weekDay
+9/28/2023,39,Normal Day,no,Thursday,not holiday,weekDay
+9/29/2023,39,Normal Day,no,Friday,not holiday,weekDay
+9/30/2023,39,Normal Day,no,Saturday,holiday,weekEnd
+10/1/2023,40,Normal Day,no,Sunday,holiday,weekEnd
+10/2/2023,40,Normal Day,no,Monday,not holiday,weekDay
+10/3/2023,40,Normal Day,no,Tuesday,not holiday,weekDay
+10/4/2023,40,Normal Day,no,Wednesday,not holiday,weekDay
+10/5/2023,40,Normal Day,no,Thursday,not holiday,weekDay
+10/6/2023,40,Normal Day,no,Friday,not holiday,weekDay
+10/7/2023,40,Normal Day,no,Saturday,holiday,weekEnd
+10/8/2023,41,Normal Day,no,Sunday,holiday,weekEnd
+10/9/2023,41,Normal Day,no,Monday,not holiday,weekDay
+10/10/2023,41,Normal Day,no,Tuesday,not holiday,weekDay
+10/11/2023,41,Normal Day,no,Wednesday,not holiday,weekDay
+10/12/2023,41,Normal Day,no,Thursday,not holiday,weekDay
+10/13/2023,41,H.M. King Bhumibol Adulyadej Memorial Day,yes,Friday,holiday,Spacial
+10/14/2023,41,Normal Day,yes,Saturday,holiday,weekEnd
+10/15/2023,42,Normal Day,yes,Sunday,holiday,weekEnd
+10/16/2023,42,Normal Day,no,Monday,not holiday,weekDay
+10/17/2023,42,Normal Day,no,Tuesday,not holiday,weekDay
+10/18/2023,42,Normal Day,no,Wednesday,not holiday,weekDay
+10/19/2023,42,Normal Day,no,Thursday,not holiday,weekDay
+10/20/2023,42,Normal Day,no,Friday,not holiday,weekDay
+10/21/2023,42,Normal Day,yes,Saturday,holiday,weekEnd
+10/22/2023,43,Normal Day,yes,Sunday,holiday,weekEnd
+10/23/2023,43,Chulalongkorn Day,yes,Monday,holiday,Spacial
+10/24/2023,43,Normal Day,no,Tuesday,not holiday,weekDay
+10/25/2023,43,Normal Day,no,Wednesday,not holiday,weekDay
+10/26/2023,43,Normal Day,no,Thursday,not holiday,weekDay
+10/27/2023,43,Normal Day,no,Friday,not holiday,weekDay
+10/28/2023,43,Normal Day,no,Saturday,holiday,weekEnd
+10/29/2023,44,Normal Day,no,Sunday,holiday,weekEnd
+10/30/2023,44,Normal Day,no,Monday,not holiday,weekDay
+10/31/2023,44,Normal Day,no,Tuesday,not holiday,weekDay
+11/1/2023,44,Normal Day,no,Wednesday,not holiday,weekDay
+11/2/2023,44,Normal Day,no,Thursday,not holiday,weekDay
+11/3/2023,44,Normal Day,no,Friday,not holiday,weekDay
+11/4/2023,44,Normal Day,no,Saturday,holiday,weekEnd
+11/5/2023,45,Normal Day,no,Sunday,holiday,weekEnd
+11/6/2023,45,Normal Day,no,Monday,not holiday,weekDay
+11/7/2023,45,Normal Day,no,Tuesday,not holiday,weekDay
+11/8/2023,45,Normal Day,no,Wednesday,not holiday,weekDay
+11/9/2023,45,Normal Day,no,Thursday,not holiday,weekDay
+11/10/2023,45,Normal Day,no,Friday,not holiday,weekDay
+11/11/2023,45,Normal Day,no,Saturday,holiday,weekEnd
+11/12/2023,46,Normal Day,no,Sunday,holiday,weekEnd
+11/13/2023,46,Normal Day,no,Monday,not holiday,weekDay
+11/14/2023,46,Normal Day,no,Tuesday,not holiday,weekDay
+11/15/2023,46,Normal Day,no,Wednesday,not holiday,weekDay
+11/16/2023,46,Normal Day,no,Thursday,not holiday,weekDay
+11/17/2023,46,Normal Day,no,Friday,not holiday,weekDay
+11/18/2023,46,Normal Day,no,Saturday,holiday,weekEnd
+11/19/2023,47,Normal Day,no,Sunday,holiday,weekEnd
+11/20/2023,47,Normal Day,no,Monday,not holiday,weekDay
+11/21/2023,47,Normal Day,no,Tuesday,not holiday,weekDay
+11/22/2023,47,Normal Day,no,Wednesday,not holiday,weekDay
+11/23/2023,47,Normal Day,no,Thursday,not holiday,weekDay
+11/24/2023,47,Normal Day,no,Friday,not holiday,weekDay
+11/25/2023,47,Normal Day,no,Saturday,holiday,weekEnd
+11/26/2023,48,Normal Day,no,Sunday,holiday,weekEnd
+11/27/2023,48,Normal Day,no,Monday,not holiday,weekDay
+11/28/2023,48,Normal Day,no,Tuesday,not holiday,weekDay
+11/29/2023,48,Normal Day,no,Wednesday,not holiday,weekDay
+11/30/2023,48,Normal Day,no,Thursday,not holiday,weekDay
+12/1/2023,48,Normal Day,no,Friday,not holiday,weekDay
+12/2/2023,48,Normal Day,no,Saturday,holiday,weekEnd
+12/3/2023,49,Normal Day,no,Sunday,holiday,weekEnd
+12/4/2023,49,Normal Day,no,Monday,not holiday,weekDay
+12/5/2023,49,Father's Day,no,Tuesday,holiday,Spacial
+12/6/2023,49,Normal Day,no,Wednesday,not holiday,weekDay
+12/7/2023,49,Normal Day,no,Thursday,not holiday,weekDay
+12/8/2023,49,Normal Day,no,Friday,not holiday,weekDay
+12/9/2023,49,Normal Day,yes,Saturday,holiday,weekEnd
+12/10/2023,50,Constitution Day,yes,Sunday,holiday,Spacial
+12/11/2023,50,Compensatory Holiday,yes,Monday,holiday,Spacial
+12/12/2023,50,Normal Day,no,Tuesday,not holiday,weekDay
+12/13/2023,50,Normal Day,no,Wednesday,not holiday,weekDay
+12/14/2023,50,Normal Day,no,Thursday,not holiday,weekDay
+12/15/2023,50,Normal Day,no,Friday,not holiday,weekDay
+12/16/2023,50,Normal Day,no,Saturday,holiday,weekEnd
+12/17/2023,51,Normal Day,no,Sunday,holiday,weekEnd
+12/18/2023,51,Normal Day,no,Monday,not holiday,weekDay
+12/19/2023,51,Normal Day,no,Tuesday,not holiday,weekDay
+12/20/2023,51,Normal Day,no,Wednesday,not holiday,weekDay
+12/21/2023,51,Normal Day,no,Thursday,not holiday,weekDay
+12/22/2023,51,Normal Day,no,Friday,not holiday,weekDay
+12/23/2023,51,Normal Day,no,Saturday,holiday,weekEnd
+12/24/2023,52,Normal Day,no,Sunday,holiday,weekEnd
+12/25/2023,52,Normal Day,no,Monday,not holiday,weekDay
+12/26/2023,52,Normal Day,no,Tuesday,not holiday,weekDay
+12/27/2023,52,Normal Day,no,Wednesday,not holiday,weekDay
+12/28/2023,52,Normal Day,no,Thursday,not holiday,weekDay
+12/29/2023,52,Special Holidays,no,Friday,holiday,Spacial
+12/30/2023,52,Normal Day,no,Saturday,holiday,weekEnd
+12/31/2023,53,New Year's Eve,no,Sunday,holiday,Spacial
