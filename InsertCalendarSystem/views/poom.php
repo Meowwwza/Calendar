@@ -45,8 +45,6 @@
     </style>
 </head>
 
-ิ
-
 <body>
     <?php
     session_start();
@@ -101,6 +99,7 @@
                                 }
                                 // แสดงตารางข้อมูลก่อนแผนภูมิ
                                 echo "<h2>Data Table:</h2>";
+                                echo "<div style='overflow-x:auto;'>";
                                 echo "<table>
                                     <tr>
                                         <th>KU ID</th>
@@ -115,6 +114,7 @@
                                     </tr>";
                                 }
                                 echo "</table>";
+                                echo "</div>";
                             } else {
                                 echo "0 results";
                             }
@@ -129,32 +129,58 @@
                             <script>
                                 // กำหนดข้อมูลสำหรับแผนภูมิแท่ง
                                 var accessionNos = <?php echo json_encode($accessionNos); ?>;
+                                var kuIds = <?php echo json_encode($kuIds); ?>;
                                 var averages = <?php echo json_encode($averages); ?>;
+
+                                // สร้างออบเจ็กต์สำหรับเก็บสีของแต่ละปี
+                                var yearColors = {};
 
                                 // สร้างแผนภูมิแท่ง
                                 var ctx = document.getElementById('barChart').getContext('2d');
                                 var myChart = new Chart(ctx, {
-                                            type: 'bar',
-                                            data: {
-                                                labels: accessionNos,
-                                                datasets: [{
-                                                    label: 'Average GPA',
-                                                    data: averages,
-                                                    backgroundColor: 'rgba(54, 162, 235, 0.2)', // สีพื้นหลังแท่ง
-                                                    borderColor: 'rgba(54, 162, 235, 1)', // สีขอบแท่ง
-                                                    borderWidth: 1
-                                                }]
-                                            },
-                                            options: {
-                                                scales: {
-                                                    yAxes: [{
-                                                        ticks: {
-                                                            beginAtZero: true
-                                                        }
-                                                    }]
+                                    type: 'bar',
+                                    data: {
+                                        labels: accessionNos.map(function(accessionNo, index) {
+                                            return accessionNo + ' (' + kuIds[index] + ')'; // เพิ่มรายละเอียด kuID ใน label
+                                        }),
+                                        datasets: [{
+                                            label: 'Average GPA',
+                                            data: averages,
+                                            backgroundColor: accessionNos.map(function(accessionNo) {
+                                                // ตรวจสอบว่ามีสีที่กำหนดไว้แล้วหรือไม่
+                                                if (!(accessionNo in yearColors)) {
+                                                    // สร้างสีสุ่มใหม่
+                                                    var color = 'rgba(' + Math.floor(Math.random() * 256) + ',' + Math.floor(Math.random() * 256) + ',' + Math.floor(Math.random() * 256) + ',0.2)';
+                                                    // บันทึกสีลงในออบเจ็กต์ yearColors
+                                                    yearColors[accessionNo] = color;
                                                 }
-                                            }
-                                        });
+                                                // ส่งคืนสีที่มีอยู่หรือสร้างใหม่
+                                                return yearColors[accessionNo];
+                                            }),
+                                            borderColor: accessionNos.map(function(accessionNo) {
+                                                // ตรวจสอบว่ามีสีที่กำหนดไว้แล้วหรือไม่
+                                                if (!(accessionNo in yearColors)) {
+                                                    // สร้างสีสุ่มใหม่
+                                                    var color = 'rgba(' + Math.floor(Math.random() * 256) + ',' + Math.floor(Math.random() * 256) + ',' + Math.floor(Math.random() * 256) + ',1)';
+                                                    // บันทึกสีลงในออบเจ็กต์ yearColors
+                                                    yearColors[accessionNo] = color;
+                                                }
+                                                // ส่งคืนสีที่มีอยู่หรือสร้างใหม่
+                                                return yearColors[accessionNo];
+                                            }),
+                                            borderWidth: 1
+                                        }]
+                                    },
+                                    options: {
+                                        scales: {
+                                            yAxes: [{
+                                                ticks: {
+                                                    beginAtZero: true
+                                                }
+                                            }]
+                                        }
+                                    }
+                                });
                             </script>
                         </div>
                     </div>
@@ -162,28 +188,11 @@
 
             </div>
         </div>
-        // <!-- #/ container -->
     </div>
-    // <!--**********************************
-    //         Content body end
-    //     ***********************************-->
 
-
-    // <!--**********************************
-    //         Footer start
-    //     ***********************************-->
-
-    // <!--**********************************
-    //         Footer end
-    //     ***********************************-->
-    // </div>
-    // <!--**********************************
-    //     Main wrapper end
-    // ***********************************-->
-
-    // <!--**********************************
-    //     Scripts
-    // ***********************************-->
+    <!--**********************************
+        Scripts
+    ***********************************-->
     <script src="plugins/common/common.min.js"></script>
     <script src="js/custom.min.js"></script>
     <script src="js/settings.js"></script>
@@ -208,8 +217,8 @@
     <script src="./plugins/chartist/js/chartist.min.js"></script>
     <script src="./plugins/chartist-plugin-tooltips/js/chartist-plugin-tooltip.min.js"></script>
 
-
-
     <script src="./js/dashboard/dashboard-1.js"></script>
 
 </body>
+
+</html>
