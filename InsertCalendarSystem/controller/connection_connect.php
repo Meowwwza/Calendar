@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "dwcpekps";
+$dbname = "dw";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
