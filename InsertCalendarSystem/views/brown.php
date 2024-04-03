@@ -54,7 +54,6 @@ mysqli_close($connection);
             margin: 0;
             padding: 0;
             display: flex;
-            justify-content: center;
             align-items: center;
             height: 100vh;
             background-color: #f7f7f7;
@@ -67,9 +66,30 @@ mysqli_close($connection);
             max-width: 80%; /* ปรับขนาดกราฟให้ไม่ใหญ่เกินไป */
             max-height: 80%; /* ปรับขนาดกราฟให้ไม่ใหญ่เกินไป */
         }
+
+        .sidebar {
+            width: 20%;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            margin-right: 20px;
+        }
+
+        .sidebar h2 {
+            margin-top: 0;
+        }
+
+        .sidebar p {
+            margin-bottom: 10px;
+        }
     </style>
 </head>
 <body>
+    <div class="sidebar">
+        <h2>SQL Query</h2>
+        <p><?php echo $sql; ?></p>
+    </div>
     <canvas id="myChart"></canvas>
     <script>
         var ctx = document.getElementById('myChart').getContext('2d');
