@@ -124,7 +124,7 @@
 
                             <!-- สร้างแผนภูมิแท่ง -->
                             <div id="barChartContainer">
-                                <canvas id="barChart"></canvas>
+                            <canvas id="barChart"></canvas>
                             </div>
 
                             <script>
