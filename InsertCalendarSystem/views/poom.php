@@ -42,6 +42,11 @@
         tr:nth-child(even) {
             background-color: #f2f2f2;
         }
+
+        canvas {
+            width: 100% !important;
+            height: 400px !important;
+        }
     </style>
 </head>
 
@@ -122,7 +127,7 @@
                             ?>
 
                             <!-- สร้างแผนภูมิแท่ง -->
-                            <div style="width: 50%; margin: 20px auto;">
+                            <div style="width: 100%; margin: 20px auto;">
                                 <canvas id="barChart"></canvas>
                             </div>
 
@@ -150,7 +155,8 @@
                                                 // ตรวจสอบว่ามีสีที่กำหนดไว้แล้วหรือไม่
                                                 if (!(accessionNo in yearColors)) {
                                                     // สร้างสีสุ่มใหม่
-                                                    var color = 'rgba(' + Math.floor(Math.random() * 256) + ',' + Math.floor(Math.random() * 256) + ',' + Math.floor(Math.random() * 256) + ',0.2)';
+                                                    var colors = ['rgba(255, 0, 0, 0.2)', 'rgba(0, 0, 255, 0.2)', 'rgba(0, 255, 0, 0.2)', 'rgba(255, 165, 0, 0.2)'];
+                                                    var color = colors[Object.keys(yearColors).length % colors.length];
                                                     // บันทึกสีลงในออบเจ็กต์ yearColors
                                                     yearColors[accessionNo] = color;
                                                 }
@@ -161,7 +167,8 @@
                                                 // ตรวจสอบว่ามีสีที่กำหนดไว้แล้วหรือไม่
                                                 if (!(accessionNo in yearColors)) {
                                                     // สร้างสีสุ่มใหม่
-                                                    var color = 'rgba(' + Math.floor(Math.random() * 256) + ',' + Math.floor(Math.random() * 256) + ',' + Math.floor(Math.random() * 256) + ',1)';
+                                                    var colors = ['rgba(255, 0, 0, 1)', 'rgba(0, 0, 255, 1)', 'rgba(0, 255, 0, 1)', 'rgba(255, 165, 0, 1)'];
+                                                    var color = colors[Object.keys(yearColors).length % colors.length];
                                                     // บันทึกสีลงในออบเจ็กต์ yearColors
                                                     yearColors[accessionNo] = color;
                                                 }
