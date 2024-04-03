@@ -98,16 +98,16 @@
                 </li>
 
                 <li>
-                    <a class="menu-icon" href="./mon.php" aria-expanded="false">
+                    <a class="menu-icon" href="./page1.php" aria-expanded="false">
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                             class="bi bi-clock" viewBox="0 0 16 16">
-                            <i class="icon-note menu-icon">คนติดโปร</i>
+                            <i class="icon-note menu-icon">รายงานคนติดโปรสูง</i>
                             <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16zm7-8A7 7 0 1 1 1 8a7 7 0 0 1 14 0z" />
                         </svg><span class="nav-text menu-icon">&nbsp;</span>
                     </a>
                 </li>
                 <li>
-                    <a class="menu-icon" href="./brown.php" aria-expanded="false">
+                    <a class="menu-icon" href="./page2.php" aria-expanded="false">
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                             class="bi bi-clock" viewBox="0 0 16 16">
                             <i class="icon-note menu-icon">รอบการคัดเลือก</i>
@@ -117,7 +117,7 @@
                 </li>
 
                 <li>
-                    <a class="menu-icon" href="./poom.php" aria-expanded="false">
+                    <a class="menu-icon" href="./page3.php" aria-expanded="false">
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                             class="bi bi-clock" viewBox="0 0 16 16">
                             <i class="icon-note menu-icon">นักเรียนที่ได้เกรดวิชาภาคในแต่ละรอบ</i>
@@ -127,20 +127,20 @@
                 </li>
 
                 <li>
-                    <a class="menu-icon" href="./name.php" aria-expanded="false">
+                    <a class="menu-icon" href="./page4.php" aria-expanded="false">
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                             class="bi bi-clock" viewBox="0 0 16 16">
-                            <i class="icon-note menu-icon">ของเนม</i>
+                            <i class="icon-note menu-icon">รายงานคนดรอปวิชาในสาขา</i>
                             <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16zm7-8A7 7 0 1 1 1 8a7 7 0 0 1 14 0z" />
                         </svg><span class="nav-text menu-icon">&nbsp;</span>
                     </a>
                 </li>
 
                 <li>
-                    <a class="menu-icon" href="./namtor.php" aria-expanded="false">
+                    <a class="menu-icon" href="./page5.php" aria-expanded="false">
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                             class="bi bi-clock" viewBox="0 0 16 16">
-                            <i class="icon-note menu-icon">ของน้่ำตาล</i>
+                            <i class="icon-note menu-icon">นิสิตที่ไม่ผ่านวิชาเฉพาะปี1</i>
                             <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16zm7-8A7 7 0 1 1 1 8a7 7 0 0 1 14 0z" />
                         </svg><span class="nav-text menu-icon">&nbsp;</span>
                     </a>
