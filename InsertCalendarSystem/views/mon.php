@@ -20,33 +20,32 @@
     <!-- Custom Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
     <style>
-        /* สร้างกรอบสำหรับตาราง */
-        table {
-            border-collapse: collapse;
-            width: 100%;
-            border: 1px solid #ddd;
-        }
+    /* สร้างกรอบสำหรับตาราง */
+    table {
+        border-collapse: collapse;
+        width: 100%;
+        border: 1px solid #ddd;
+    }
 
-        th,
-        td {
-            padding: 8px;
-            text-align: left;
-            border-bottom: 1px solid #ddd;
-        }
+    th, td {
+        padding: 8px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+    }
 
-        th {
-            background-color: #f2f2f2;
-        }
+    th {
+        background-color: #f2f2f2;
+    }
 
-        /* สร้างกรอบสำหรับแผนภูมิแท่ง */
-        #barChartContainer {
-            width: 50%;
-            margin: 20px auto;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            padding: 10px;
-        }
-    </style>
+    /* สร้างกรอบสำหรับแผนภูมิแท่ง */
+    #barChartContainer {
+        width: 50%;
+        margin: 20px auto;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        padding: 10px;
+    }
+</style>
 </head>
 
 <body>
@@ -93,74 +92,71 @@
                                 $semesterIds = [];
                                 $studentCounts = [];
                                 $semesterYears = [];
-                                $semesterParts = [];
-                                $studentCounts = [];
-                                while ($row = $result->fetch_assoc()) {
-                                    $semesterYears[] = $row["semesterYear"];
-                                    $semesterParts[] = $row["semesterPart"];
-                                    $studentCounts[] = $row["count_students"];
-                                }
-                            } else {
-                                echo "0 results";
-                            }
-                            $conn->close();
-                            ?>
-                            <!-- แสดงตารางข้อมูลก่อนแผนภูมิ -->
-                            <h2>จำนวนนิสิตที่ GPAX อยู่ในช่วงติดโปรสูง (1.5-1.74) แต่ละภาคการศึกษา</h2>
-                            <table>
-                                <tr>
-                                    <th>Semester Year</th>
-                                    <th>Semester Part</th>
-                                    <th>Number of Students</th>
-                                </tr>
-                                <?php for ($i = 0; $i < count($semesterYears); $i++) { ?>
-                                    <tr>
-                                        <td><?php echo $semesterYears[$i]; ?></td>
-                                        <td><?php echo $semesterParts[$i]; ?></td>
-                                        <td><?php echo $studentCounts[$i]; ?></td>
-                                    </tr>
-                                <?php } ?>
-                            </table>
+    $semesterParts = [];
+    $studentCounts = [];
+    while($row = $result->fetch_assoc()) {
+        $semesterYears[] = $row["semesterYear"];
+        $semesterParts[] = $row["semesterPart"];
+        $studentCounts[] = $row["count_students"];
+    }
+} else {
+    echo "0 results";
+}
+$conn->close();
+?>
+                                <!-- แสดงตารางข้อมูลก่อนแผนภูมิ -->
+<h2>จำนวนนิสิตที่ GPAX อยู่ในช่วงติดโปรสูง (1.5-1.74) แต่ละภาคการศึกษา</h2>
+<table>
+    <tr>
+        <th>Semester Year</th>
+        <th>Semester Part</th>
+        <th>Number of Students</th>
+    </tr>
+    <?php for ($i = 0; $i < count($semesterYears); $i++) { ?>
+    <tr>
+        <td><?php echo $semesterYears[$i]; ?></td>
+        <td><?php echo $semesterParts[$i]; ?></td>
+        <td><?php echo $studentCounts[$i]; ?></td>
+    </tr>
+    <?php } ?>
+</table>
 
-                            <!-- สร้างแผนภูมิแท่ง -->
-                            <div id="barChartContainer">
-                            <canvas id="barChart"></canvas>
-                            </div>
+<!-- สร้างแผนภูมิแท่ง -->
+<div id="barChartContainer">
+    <canvas id="barChart"></canvas>
+</div>
 
-                            <script>
-                                // กำหนดข้อมูลสำหรับแผนภูมิแท่ง
-                                var semesterYears = <?php echo json_encode($semesterYears); ?>;
-                                var semesterParts = <?php echo json_encode($semesterParts); ?>;
-                                var studentCounts = <?php echo json_encode($studentCounts); ?>;
+<script>
+// กำหนดข้อมูลสำหรับแผนภูมิแท่ง
+var semesterYears = <?php echo json_encode($semesterYears); ?>;
+var semesterParts = <?php echo json_encode($semesterParts); ?>;
+var studentCounts = <?php echo json_encode($studentCounts); ?>;
 
-                                // สร้างแผนภูมิแท่ง
-                                var backgroundColors = semesterParts.map(part => part === "1" ? 'rgba(54, 162, 235, 0.2)' : 'rgba(255, 99, 132, 0.2)');
-                                var borderColors = semesterParts.map(part => part === "1" ? 'rgba(54, 162, 235, 1)' : 'rgba(255, 99, 132, 1)');
-
-                                var ctx = document.getElementById('barChart').getContext('2d');
-                                var myChart = new Chart(ctx, {
-                                    type: 'bar',
-                                    data: {
-                                        labels: semesterYears.map((year, index) => year + " - " + semesterParts[index]),
-                                        datasets: [{
-                                            label: 'Number of Students',
-                                            data: studentCounts,
-                                            backgroundColor: backgroundColors,
-                                            borderColor: borderColors,
-                                            borderWidth: 1
-                                        }]
-                                    },
-                                    options: {
-                                        scales: {
-                                            yAxes: [{
-                                                ticks: {
-                                                    beginAtZero: true
-                                                }
-                                            }]
-                                        }
-                                    }
-                                });
-                            </script>
+// สร้างแผนภูมิแท่ง
+var ctx = document.getElementById('barChart').getContext('2d');
+var myChart = new Chart(ctx, {
+    type: 'bar',
+    data: {
+        labels: semesterYears.map((year, index) => year + " - " + semesterParts[index]),
+        datasets: [{
+            label: 'Number of Students',
+            data: studentCounts,
+            backgroundColor: 'rgba(54, 162, 235, 0.2)', // สีพื้นหลังแท่ง
+            borderColor: 'rgba(54, 162, 235, 1)', // สีขอบแท่ง
+            borderWidth: 1
+        }]
+    },
+    options: {
+        scales: {
+            yAxes: [{
+                ticks: {
+                    beginAtZero: true
+                }
+            }]
+        }
+    }
+});
+</script>
                         </div>
                     </div>
                 </div>
